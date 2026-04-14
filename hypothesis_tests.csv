@@ -1,5 +1,0 @@
-hypothesis,test,statistic,value,p_value,faker_mean,peer_mean
-H1 Faker has smaller average absolute post-patch performance changes than peers,Permutation test (one-sided),mean difference (Faker - peers),-0.03975756513256212,0.43551564484355154,0.2514415349030945,0.29119910003565663
-H2 Faker has higher pre-patch champion-pool diversity than peers,Permutation test (one-sided),mean entropy difference (Faker - peers),0.20271656075439104,0.28502714972850274,2.3993540840600622,2.196637523305671
-H3 Higher pre-patch champion-pool diversity is associated with smaller absolute post-patch changes,Spearman correlation,rho,-0.038183694530443756,0.8804304907652737,,
-H4 Faker uses fewer truly new champions immediately after patches than peers,Permutation test (one-sided),mean difference (Faker - peers),-0.2527218687745003,0.06310936890631094,0.2282051282051282,0.48092699697962854
