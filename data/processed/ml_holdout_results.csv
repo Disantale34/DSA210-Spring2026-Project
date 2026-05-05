@@ -1,0 +1,3 @@
+target,target_label,holdout_patch,model,n_train,n_test,test_positive_rate,accuracy,balanced_accuracy,f1,roc_auc
+stable_match,Post-patch stability,14.16,random_forest,197,85,0.7294117647058823,0.611764705882353,0.5287517531556802,0.7272727272727273,0.5575035063113605
+high_performance_match,High-performance post-patch match,14.16,logistic_regression,197,85,0.5529411764705883,0.5058823529411764,0.4801231802911534,0.6181818181818182,0.5369540873460247

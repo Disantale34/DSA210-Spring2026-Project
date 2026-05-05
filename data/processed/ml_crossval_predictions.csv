@@ -1,0 +1,565 @@
+date,patch,player_name,team_name,champion_name,performance_index,stable_match,target_label,best_model,predicted_label,predicted_probability,high_performance_match
+2024-03-06 11:04:04.071462,14.5,Chovy,Gen.G,Taliyah,0.5444219700150499,1.0,Post-patch stability,random_forest,1,0.7330510205099732,
+2024-03-06 11:55:10.627304,14.5,Chovy,Gen.G,Ahri,0.3262037516503213,1.0,Post-patch stability,random_forest,1,0.7988665833543631,
+2024-03-07 07:59:24.589000,14.5,Faker,T1,Taliyah,-0.0965818532311082,0.0,Post-patch stability,random_forest,0,0.23387496573388522,
+2024-03-07 08:49:36.125000,14.5,Faker,T1,Taliyah,0.800120918691309,0.0,Post-patch stability,random_forest,0,0.23244710683727768,
+2024-03-07 09:55:37.252007,14.5,Bdd,KT Rolster,Orianna,0.3470112444653619,0.0,Post-patch stability,random_forest,1,0.7184540056392144,
+2024-03-07 10:58:58.437908,14.5,Bdd,KT Rolster,Orianna,-0.1628522158969524,1.0,Post-patch stability,random_forest,0,0.24961777139911454,
+2024-03-08 09:12:48.643000,14.5,knight,Bilibili Gaming,Ahri,0.7582816964371991,0.0,Post-patch stability,random_forest,0,0.4099062194655263,
+2024-03-08 09:50:31.639459,14.5,ShowMaker,Dplus KIA,Taliyah,-0.595009900664278,1.0,Post-patch stability,random_forest,0,0.4204614364460613,
+2024-03-08 09:59:21.971296,14.5,knight,Bilibili Gaming,Karma,0.7694534151967538,0.0,Post-patch stability,random_forest,0,0.3785842906238279,
+2024-03-08 10:54:40.765964,14.5,ShowMaker,Dplus KIA,Aurelion Sol,0.927433090521101,0.0,Post-patch stability,random_forest,0,0.4702517191068191,
+2024-03-09 08:00:23.139426,14.5,Chovy,Gen.G,Corki,0.7563741101712038,1.0,Post-patch stability,random_forest,1,0.7289667683809009,
+2024-03-09 08:00:23.139426,14.5,Faker,T1,LeBlanc,-1.6225238559381048,0.0,Post-patch stability,random_forest,0,0.3374970488238988,
+2024-03-09 08:49:07.938893,14.5,Chovy,Gen.G,Ahri,0.208266292125963,1.0,Post-patch stability,random_forest,1,0.6548517432863541,
+2024-03-09 08:49:07.938893,14.5,Faker,T1,Taliyah,-0.7465237701886444,0.0,Post-patch stability,random_forest,0,0.37875104782595687,
+2024-03-09 17:54:15.319213,14.5,Caps,G2 Esports,Ahri,0.2769074223252052,1.0,Post-patch stability,random_forest,1,0.6164255679930619,
+2024-03-10 07:10:43.699000,14.5,knight,Bilibili Gaming,Neeko,0.0798541263266223,1.0,Post-patch stability,random_forest,0,0.20125877610823117,
+2024-03-10 07:55:22.863000,14.5,knight,Bilibili Gaming,Ahri,1.0880021105289863,0.0,Post-patch stability,random_forest,0,0.37948020951830846,
+2024-03-10 08:00:10.770467,14.5,Bdd,KT Rolster,Corki,0.0682925929938908,1.0,Post-patch stability,random_forest,0,0.4172339835351018,
+2024-03-10 08:47:55.881271,14.5,Bdd,KT Rolster,Taliyah,-0.6148022032751628,1.0,Post-patch stability,random_forest,0,0.28170375514545326,
+2024-03-10 09:42:43.351081,14.5,Bdd,KT Rolster,Taliyah,0.4537247246319685,0.0,Post-patch stability,random_forest,1,0.7603408827109128,
+2024-03-10 10:50:13.755488,14.5,ShowMaker,Dplus KIA,Karma,-1.3983178963517944,0.0,Post-patch stability,random_forest,0,0.33357218061403127,
+2024-03-10 11:56:22.570506,14.5,ShowMaker,Dplus KIA,Karma,0.9360678906197496,0.0,Post-patch stability,random_forest,0,0.29582053482020326,
+2024-03-10 12:48:09.615140,14.5,ShowMaker,Dplus KIA,LeBlanc,-0.4387491520093125,1.0,Post-patch stability,random_forest,0,0.35577076479933273,
+2024-03-10 19:23:49.623682,14.5,Caps,G2 Esports,Neeko,-0.1699596469273433,1.0,Post-patch stability,random_forest,1,0.5074597998496757,
+2024-03-11 19:13:09.880159,14.5,Caps,G2 Esports,Neeko,-0.1122562625566015,1.0,Post-patch stability,random_forest,1,0.5356754827869569,
+2024-03-13 11:20:26.966281,14.5,Faker,T1,Taliyah,0.4769525150708109,1.0,Post-patch stability,random_forest,0,0.15903801300765422,
+2024-03-13 11:20:26.966281,14.5,ShowMaker,Dplus KIA,Karma,-1.3594261213317012,0.0,Post-patch stability,random_forest,0,0.46901307447536233,
+2024-03-13 12:19:41.898664,14.5,Faker,T1,Ahri,-0.1599085460205629,0.0,Post-patch stability,random_forest,0,0.3235766183605472,
+2024-03-13 12:19:41.898664,14.5,ShowMaker,Dplus KIA,Annie,-0.6825987945861879,1.0,Post-patch stability,random_forest,0,0.3111635647118214,
+2024-03-14 07:11:38.481000,14.5,knight,Bilibili Gaming,Karma,-0.4830536117853805,1.0,Post-patch stability,random_forest,1,0.5577237653621071,
+2024-03-14 08:02:26.878000,14.5,knight,Bilibili Gaming,Neeko,-0.3230267257606472,1.0,Post-patch stability,random_forest,0,0.45005671569991085,
+2024-03-14 10:35:18.645883,14.5,Bdd,KT Rolster,Karma,-0.1131484932460301,1.0,Post-patch stability,random_forest,0,0.3539366316504461,
+2024-03-14 11:21:35.441342,14.5,Bdd,KT Rolster,Corki,0.7963686090877045,0.0,Post-patch stability,random_forest,1,0.6069344020651566,
+2024-03-15 07:59:41.359000,14.5,Chovy,Gen.G,Kassadin,1.2512857507963309,0.0,Post-patch stability,random_forest,1,0.7612543503017477,
+2024-03-15 08:53:11.736000,14.5,Chovy,Gen.G,Taliyah,0.1803229379299441,1.0,Post-patch stability,random_forest,1,0.6637495218020777,
+2024-03-15 10:29:31.562049,14.5,Faker,T1,Annie,-1.3190010574628543,0.0,Post-patch stability,random_forest,0,0.23243462248106198,
+2024-03-15 11:22:10.341944,14.5,Faker,T1,Taliyah,0.378280234544742,1.0,Post-patch stability,random_forest,0,0.30130128680777035,
+2024-03-15 12:15:39.570143,14.5,Faker,T1,Ahri,-0.8848671787848351,0.0,Post-patch stability,random_forest,0,0.31827769571884323,
+2024-03-16 09:49:32.340054,14.5,Bdd,KT Rolster,Annie,0.4114976623333709,0.0,Post-patch stability,random_forest,0,0.30064597656783565,
+2024-03-16 10:37:04.744211,14.5,Bdd,KT Rolster,Orianna,-0.0990437053958381,1.0,Post-patch stability,random_forest,0,0.31882764172929606,
+2024-03-16 11:12:19.994000,14.5,knight,Bilibili Gaming,Taliyah,0.4905490965513682,0.0,Post-patch stability,random_forest,0,0.4352052514632308,
+2024-03-16 11:38:24.670893,14.5,Bdd,KT Rolster,Syndra,0.3871102950109152,0.0,Post-patch stability,random_forest,1,0.5153249405385637,
+2024-03-16 12:07:26.456000,14.5,knight,Bilibili Gaming,Ahri,0.373119480828977,0.0,Post-patch stability,random_forest,0,0.333596311157332,
+2024-03-16 17:43:04.906091,14.5,Caps,G2 Esports,Ahri,0.4625148860130338,0.0,Post-patch stability,random_forest,1,0.6114155338443701,
+2024-03-17 09:47:57.277545,14.5,Chovy,Gen.G,Corki,0.4551759131518464,1.0,Post-patch stability,random_forest,1,0.6449445135730789,
+2024-03-17 09:47:57.277545,14.5,ShowMaker,Dplus KIA,Annie,0.0238678349205965,1.0,Post-patch stability,random_forest,0,0.27120441678242174,
+2024-03-17 10:42:55.024150,14.5,Chovy,Gen.G,Taliyah,-0.4833059188560562,0.0,Post-patch stability,random_forest,1,0.8840165499645722,
+2024-03-17 10:42:55.024150,14.5,ShowMaker,Dplus KIA,Annie,-1.3118784116424431,0.0,Post-patch stability,random_forest,1,0.551415646394121,
+2024-03-17 11:44:20.464825,14.5,Chovy,Gen.G,Tristana,0.6500977689202397,1.0,Post-patch stability,random_forest,1,0.5331446216528609,
+2024-03-17 11:44:20.464825,14.5,ShowMaker,Dplus KIA,Annie,-1.466707784804366,0.0,Post-patch stability,random_forest,0,0.39028520672177697,
+2024-03-17 19:33:47.903000,14.5,Caps,G2 Esports,Ahri,-0.7045654305507413,0.0,Post-patch stability,random_forest,1,0.5063698485933184,
+2024-03-18 17:38:32.087515,14.5,Caps,G2 Esports,Karma,-0.2577144635623801,1.0,Post-patch stability,random_forest,1,0.5320705841490487,
+2024-03-20 08:00:25.553000,14.5,Chovy,Gen.G,Yone,-0.4866073501319886,0.0,Post-patch stability,random_forest,1,0.7886331012972413,
+2024-03-20 08:47:32.811498,14.5,Chovy,Gen.G,Orianna,0.3086297271001457,1.0,Post-patch stability,random_forest,1,0.6801840619981501,
+2024-03-20 10:30:28.691010,14.5,Faker,T1,Orianna,0.3507242103320321,1.0,Post-patch stability,random_forest,0,0.30994907597599725,
+2024-03-20 11:12:52.274000,14.5,knight,Bilibili Gaming,LeBlanc,0.5301074697649789,0.0,Post-patch stability,random_forest,0,0.29997669762135143,
+2024-03-20 11:14:35.621482,14.5,Faker,T1,Taliyah,-0.2801837872399403,0.0,Post-patch stability,random_forest,1,0.5809292656712544,
+2024-03-20 11:58:01.519000,14.5,knight,Bilibili Gaming,Taliyah,-0.3286921520112322,1.0,Post-patch stability,random_forest,0,0.21758955675932928,
+2024-03-20 12:49:17.118919,14.5,knight,Bilibili Gaming,Karma,0.3682843104886013,0.0,Post-patch stability,random_forest,1,0.5668644036166558,
+2024-03-21 08:00:44.206000,14.5,Bdd,KT Rolster,Taliyah,0.6557486127318949,0.0,Post-patch stability,random_forest,0,0.4377029431750228,
+2024-03-21 09:02:02.606000,14.5,Bdd,KT Rolster,Annie,-0.7132764494714081,1.0,Post-patch stability,random_forest,0,0.3719328638659619,
+2024-03-21 09:55:56.416000,14.5,Bdd,KT Rolster,Ahri,-0.2657580914515381,1.0,Post-patch stability,random_forest,0,0.4235639862125641,
+2024-03-21 11:26:15.780456,14.5,ShowMaker,Dplus KIA,Tristana,-0.4944005181495299,1.0,Post-patch stability,random_forest,0,0.36876065246435247,
+2024-03-21 12:25:48.179095,14.5,ShowMaker,Dplus KIA,Tristana,-1.2709920615878312,0.0,Post-patch stability,random_forest,0,0.45988423002991946,
+2024-03-22 08:00:52.210113,14.5,Chovy,Gen.G,Sylas,0.550734345454299,1.0,Post-patch stability,random_forest,1,0.710376881770655,
+2024-03-22 08:50:09.521035,14.5,Chovy,Gen.G,Aurelion Sol,0.5926437794088483,1.0,Post-patch stability,random_forest,1,0.7641217415971314,
+2024-03-22 17:38:25.463220,14.5,Caps,G2 Esports,Annie,0.175930561395063,1.0,Post-patch stability,random_forest,1,0.5719859144047866,
+2024-03-23 06:01:40.854036,14.5,ShowMaker,Dplus KIA,Ahri,-0.8970644527038937,0.0,Post-patch stability,random_forest,1,0.653258458130486,
+2024-03-23 06:57:51.611838,14.5,ShowMaker,Dplus KIA,Taliyah,-0.5819424761362211,1.0,Post-patch stability,random_forest,1,0.5327832751196988,
+2024-03-23 08:42:17.580420,14.5,Faker,T1,Hwei,-0.4727186758982771,0.0,Post-patch stability,random_forest,0,0.23279595104825607,
+2024-03-23 09:28:31.028481,14.5,Faker,T1,Corki,0.4046683605716841,1.0,Post-patch stability,random_forest,0,0.2587639967273765,
+2024-03-23 11:11:08.901038,14.5,knight,Bilibili Gaming,Ahri,0.2808186584593073,0.0,Post-patch stability,random_forest,0,0.4540425407697345,
+2024-03-23 12:05:22.376085,14.5,knight,Bilibili Gaming,Ahri,0.120450341380812,1.0,Post-patch stability,random_forest,1,0.5172672503223733,
+2024-03-23 18:37:44.174266,14.5,Caps,G2 Esports,Karma,-1.3890974955994686,0.0,Post-patch stability,random_forest,0,0.4295793472542024,
+2024-03-24 08:46:02.255000,14.5,Bdd,KT Rolster,Syndra,0.7500127273661065,0.0,Post-patch stability,random_forest,0,0.4810545142206678,
+2024-03-24 09:36:23.665000,14.5,Bdd,KT Rolster,Taliyah,-0.0306334906233195,1.0,Post-patch stability,random_forest,1,0.5527817228210609,
+2024-03-25 18:22:50.975532,14.5,Caps,G2 Esports,Ahri,-0.7714949664393593,0.0,Post-patch stability,random_forest,0,0.36860268893711506,
+2024-03-31 06:01:58.473716,14.5,Bdd,KT Rolster,Corki,-0.4415483711641806,1.0,Post-patch stability,random_forest,1,0.6498464603453765,
+2024-03-31 06:01:58.473716,14.5,ShowMaker,Dplus KIA,Azir,-0.286720918019371,1.0,Post-patch stability,random_forest,1,0.8302589778493475,
+2024-03-31 07:03:50.677265,14.5,Bdd,KT Rolster,Veigar,0.5913971087135516,0.0,Post-patch stability,random_forest,1,0.5007818481972452,
+2024-03-31 07:03:50.677265,14.5,ShowMaker,Dplus KIA,Azir,-0.6754030397516364,1.0,Post-patch stability,random_forest,1,0.7837923512496134,
+2024-03-31 08:08:05.384103,14.5,Bdd,KT Rolster,Veigar,-0.1459233321854742,1.0,Post-patch stability,random_forest,0,0.43204018771513875,
+2024-03-31 08:08:05.384103,14.5,ShowMaker,Dplus KIA,Azir,-0.5653234325226832,1.0,Post-patch stability,random_forest,1,0.8607607750867006,
+2024-03-31 09:10:42.498349,14.5,Bdd,KT Rolster,Taliyah,-1.1320486253546125,0.0,Post-patch stability,random_forest,1,0.5545731775899799,
+2024-03-31 09:10:42.498349,14.5,ShowMaker,Dplus KIA,Azir,0.7357627254577691,1.0,Post-patch stability,random_forest,1,0.7589179820286648,
+2024-03-31 09:58:46.455100,14.5,Bdd,KT Rolster,Azir,-1.717763354919648,0.0,Post-patch stability,random_forest,0,0.41861960095362954,
+2024-03-31 09:58:46.455100,14.5,ShowMaker,Dplus KIA,Sylas,0.0535658497049281,1.0,Post-patch stability,random_forest,1,0.5796460351685181,
+2024-03-31 16:47:52.513888,14.5,Caps,G2 Esports,Taliyah,0.189223594837347,1.0,Post-patch stability,random_forest,1,0.5110137512238885,
+2024-03-31 17:33:51.290379,14.5,Caps,G2 Esports,Taliyah,0.5395301325633496,0.0,Post-patch stability,random_forest,0,0.45805150244170556,
+2024-04-01 17:37:36.562897,14.5,Caps,G2 Esports,Aurelion Sol,0.332012072968703,1.0,Post-patch stability,random_forest,0,0.4644620757162734,
+2024-04-01 18:21:19.170359,14.5,Caps,G2 Esports,Azir,0.8124134001810468,0.0,Post-patch stability,random_forest,0,0.366404456126123,
+2024-06-26 08:00:11.642541,14.13,Faker,T1,Tristana,-0.1733840921398291,1.0,Post-patch stability,random_forest,0,0.4527777722436135,
+2024-06-26 08:56:53.332746,14.13,Faker,T1,Tristana,-0.2281781870282967,1.0,Post-patch stability,random_forest,0,0.44043852241589204,
+2024-06-26 10:30:59.483918,14.13,Chovy,Gen.G,Lucian,0.8002859906286437,1.0,Post-patch stability,random_forest,1,0.682384470583422,
+2024-06-26 11:26:18.632699,14.13,Chovy,Gen.G,Corki,0.7502976340702482,1.0,Post-patch stability,random_forest,1,0.6460772945432787,
+2024-06-27 08:01:32.354740,14.13,ShowMaker,Dplus KIA,LeBlanc,-0.6144098373947666,1.0,Post-patch stability,random_forest,0,0.3797842695593221,
+2024-06-27 08:51:20.611974,14.13,ShowMaker,Dplus KIA,Tristana,0.7354809185205972,0.0,Post-patch stability,random_forest,1,0.5464696884618022,
+2024-06-27 10:31:11.998000,14.13,Bdd,KT Rolster,Taliyah,0.3908960916044365,0.0,Post-patch stability,random_forest,1,0.5023481668518683,
+2024-06-27 11:10:56.104000,14.13,knight,Bilibili Gaming,Lucian,-0.218822574900965,0.0,Post-patch stability,random_forest,0,0.16763859895626487,
+2024-06-27 11:23:33.239000,14.13,Bdd,KT Rolster,Tristana,-0.3671939888182234,1.0,Post-patch stability,random_forest,0,0.13615368311314616,
+2024-06-27 12:05:22.429000,14.13,knight,Bilibili Gaming,Yone,-0.4265244518281428,0.0,Post-patch stability,random_forest,0,0.22109111052839406,
+2024-06-27 12:21:35.530969,14.13,Bdd,KT Rolster,Ahri,0.5584407209960118,0.0,Post-patch stability,random_forest,0,0.4557655169189172,
+2024-06-27 12:53:04.508000,14.13,knight,Bilibili Gaming,Corki,0.6650259437323439,0.0,Post-patch stability,random_forest,0,0.32631140309797657,
+2024-06-28 10:48:26.005157,14.13,Chovy,Gen.G,Hwei,0.3018352111549052,1.0,Post-patch stability,random_forest,1,0.6006077772425383,
+2024-06-28 11:30:49.336549,14.13,Chovy,Gen.G,Corki,0.4534668885712375,1.0,Post-patch stability,random_forest,1,0.536191499445257,
+2024-06-29 06:02:06.905875,14.13,Bdd,KT Rolster,Taliyah,-0.1079309809897891,0.0,Post-patch stability,random_forest,0,0.19017936244177266,
+2024-06-29 06:02:06.905875,14.13,Faker,T1,Azir,0.8913842071776212,0.0,Post-patch stability,random_forest,1,0.6477122967417247,
+2024-06-29 06:59:27.303920,14.13,Bdd,KT Rolster,Taliyah,0.1825376903228163,0.0,Post-patch stability,random_forest,0,0.25083999894232933,
+2024-06-29 06:59:27.303920,14.13,Faker,T1,Azir,-0.4843709317501231,1.0,Post-patch stability,random_forest,1,0.5864160850529148,
+2024-06-29 08:32:48.542379,14.13,Bdd,KT Rolster,Azir,0.7691528447839656,0.0,Post-patch stability,random_forest,0,0.20303612410196398,
+2024-06-29 08:32:48.542379,14.13,Faker,T1,Tristana,-0.7424848395321301,0.0,Post-patch stability,random_forest,1,0.7605217605472052,
+2024-06-29 16:46:12.145960,14.13,Caps,G2 Esports,Corki,1.2744889194980296,0.0,Post-patch stability,random_forest,0,0.4480985281909756,
+2024-06-30 08:46:34.024264,14.13,ShowMaker,Dplus KIA,Taliyah,-0.3561222998482027,1.0,Post-patch stability,random_forest,0,0.367670843546361,
+2024-06-30 09:57:11.425740,14.13,ShowMaker,Dplus KIA,Twisted Fate,0.6354751892299771,0.0,Post-patch stability,random_forest,1,0.6137757127903095,
+2024-06-30 10:47:53.878358,14.13,ShowMaker,Dplus KIA,Taliyah,0.0804187662118673,1.0,Post-patch stability,random_forest,1,0.5110801566854198,
+2024-06-30 17:45:59.999313,14.13,Caps,G2 Esports,Corki,-0.0050272636978644,1.0,Post-patch stability,random_forest,1,0.5425589356333006,
+2024-07-04 15:05:15.323000,14.13,Faker,T1,Corki,0.4914177565690255,1.0,Post-patch stability,random_forest,1,0.6629558923102553,
+2024-07-04 15:05:15.323000,14.13,knight,Bilibili Gaming,Tristana,-0.2593167059687508,0.0,Post-patch stability,random_forest,0,0.255347010593047,
+2024-07-04 16:13:25.257328,14.13,Faker,T1,Tristana,-1.1651273395127524,0.0,Post-patch stability,random_forest,1,0.6941981685503613,
+2024-07-04 16:13:25.257328,14.13,knight,Bilibili Gaming,Corki,0.2493639575537841,1.0,Post-patch stability,random_forest,0,0.2494011961260361,
+2024-07-04 17:32:01.708955,14.13,Faker,T1,Tristana,0.6358707248285436,1.0,Post-patch stability,random_forest,1,0.6232750199780093,
+2024-07-04 17:32:01.708955,14.13,knight,Bilibili Gaming,Corki,-0.6343798871154824,0.0,Post-patch stability,random_forest,0,0.27447703355699826,
+2024-07-05 15:06:26.781174,14.13,Chovy,Gen.G,Corki,-0.2420673871826655,0.0,Post-patch stability,random_forest,1,0.8188389026896205,
+2024-07-05 16:01:59.309337,14.13,Chovy,Gen.G,Hwei,-0.1322098319034984,0.0,Post-patch stability,random_forest,1,0.6575234043190791,
+2024-07-05 17:22:39.831894,14.13,Caps,G2 Esports,Corki,-0.4695772104622979,1.0,Post-patch stability,random_forest,1,0.7126609439946533,
+2024-07-05 18:23:23.644733,14.13,Caps,G2 Esports,Tristana,0.7402054480116265,0.0,Post-patch stability,random_forest,0,0.36405484912901004,
+2024-07-05 19:24:23.577590,14.13,Caps,G2 Esports,Tristana,0.9494907921808314,0.0,Post-patch stability,random_forest,1,0.5278016766567124,
+2024-07-06 15:14:17.213500,14.13,Faker,T1,Azir,-0.0610592427685955,1.0,Post-patch stability,random_forest,1,0.5286289715452986,
+2024-07-06 16:17:45.057504,14.13,Faker,T1,Tristana,-0.0669143338126594,1.0,Post-patch stability,random_forest,1,0.561822372796938,
+2024-07-06 17:11:33.731067,14.13,Faker,T1,Taliyah,0.8218595359423984,0.0,Post-patch stability,random_forest,1,0.6206773766161614,
+2024-07-06 18:28:17.452147,14.13,Caps,G2 Esports,Corki,-0.547084513395749,1.0,Post-patch stability,random_forest,1,0.6885794982869679,
+2024-07-06 19:20:40.559336,14.13,Caps,G2 Esports,LeBlanc,-0.9907172679388412,0.0,Post-patch stability,random_forest,1,0.5097310911976466,
+2024-07-07 16:08:18.140988,14.13,Faker,T1,Corki,-0.716910406918602,0.0,Post-patch stability,random_forest,1,0.694459341137951,
+2024-07-07 16:55:20.216112,14.13,Faker,T1,Ahri,0.0847463832522784,1.0,Post-patch stability,random_forest,1,0.5269289993525996,
+2024-07-07 18:15:33.627699,14.13,Faker,T1,Azir,0.416808307809761,1.0,Post-patch stability,random_forest,1,0.6317365743843376,
+2024-07-07 19:37:40.174851,14.13,Faker,T1,Yasuo,-0.0597114389290541,1.0,Post-patch stability,random_forest,1,0.5310777990749621,
+2024-07-10 08:02:01.465267,14.13,Faker,T1,Tristana,0.774160277606831,0.0,Post-patch stability,random_forest,1,0.6818356938181053,
+2024-07-10 08:47:01.434525,14.13,Faker,T1,Tristana,-0.4240550977553547,1.0,Post-patch stability,random_forest,1,0.7608998579635399,
+2024-07-10 09:40:43.481927,14.13,Faker,T1,Taliyah,-0.0996969690508659,1.0,Post-patch stability,random_forest,1,0.7681519214323396,
+2024-07-10 11:11:34.307703,14.13,Bdd,KT Rolster,Azir,0.9589680812805385,0.0,Post-patch stability,random_forest,0,0.13987741093086759,
+2024-07-10 12:04:16.383015,14.13,Bdd,KT Rolster,Orianna,0.2606761620750931,0.0,Post-patch stability,random_forest,0,0.16330655236536176,
+2024-07-11 08:01:20.081398,14.13,ShowMaker,Dplus KIA,Akali,-0.0502568221940795,1.0,Post-patch stability,random_forest,0,0.4409119678062738,
+2024-07-11 08:56:23.721697,14.13,ShowMaker,Dplus KIA,Taliyah,0.3050547381881363,1.0,Post-patch stability,random_forest,0,0.3449135977541548,
+2024-07-11 10:31:13.388861,14.13,Chovy,Gen.G,Corki,0.5394516796485588,1.0,Post-patch stability,random_forest,1,0.6960746335169578,
+2024-07-11 11:18:26.400791,14.13,Chovy,Gen.G,Corki,0.8572570818327887,1.0,Post-patch stability,random_forest,1,0.7103693559792308,
+2024-07-12 08:01:07.439831,14.13,Bdd,KT Rolster,Tristana,0.3203747931012624,0.0,Post-patch stability,random_forest,0,0.18830885046989035,
+2024-07-12 09:00:48.815374,14.13,Bdd,KT Rolster,Azir,-0.1495210688795535,0.0,Post-patch stability,random_forest,0,0.1278972854079549,
+2024-07-12 10:35:28.871466,14.13,Faker,T1,Tristana,-0.3352822114902006,1.0,Post-patch stability,random_forest,1,0.6921277412218955,
+2024-07-12 11:40:09.677345,14.13,Faker,T1,Corki,0.3146465534555973,1.0,Post-patch stability,random_forest,1,0.6918852533798556,
+2024-07-12 12:25:39.391000,14.13,knight,Bilibili Gaming,Yone,-0.9054745567262787,0.0,Post-patch stability,random_forest,0,0.21352347253972603,
+2024-07-12 12:34:11.308769,14.13,Faker,T1,Tristana,-0.0187835609007815,1.0,Post-patch stability,random_forest,1,0.6197430239727655,
+2024-07-12 13:28:06.548000,14.13,knight,Bilibili Gaming,Tristana,0.9216195066830982,0.0,Post-patch stability,random_forest,0,0.2735792564226083,
+2024-07-12 14:15:27.378000,14.13,knight,Bilibili Gaming,Taliyah,0.9728389251562454,0.0,Post-patch stability,random_forest,0,0.21108462635263123,
+2024-07-13 06:01:26.321026,14.13,Chovy,Gen.G,Tristana,1.0434666762697675,1.0,Post-patch stability,random_forest,1,0.5433546495961777,
+2024-07-13 06:01:26.321026,14.13,ShowMaker,Dplus KIA,Taliyah,-0.9380634423023396,0.0,Post-patch stability,random_forest,1,0.5167345545266239,
+2024-07-13 06:54:40.763200,14.13,Chovy,Gen.G,Azir,0.7915281577500667,1.0,Post-patch stability,random_forest,1,0.5582726769967221,
+2024-07-13 06:54:40.763200,14.13,ShowMaker,Dplus KIA,Taliyah,-1.087232263251649,0.0,Post-patch stability,random_forest,0,0.48220482980004625,
+2024-07-13 17:43:13.673759,14.13,Caps,G2 Esports,Tristana,0.3268838803751172,1.0,Post-patch stability,random_forest,0,0.37432402482913163,
+2024-07-13 18:48:40.142663,14.13,Caps,G2 Esports,Ezreal,-0.0601819495658665,1.0,Post-patch stability,random_forest,0,0.45537161799337966,
+2024-07-14 16:44:57.996000,14.13,Caps,G2 Esports,Lucian,0.9772005781955576,0.0,Post-patch stability,random_forest,0,0.3977877882646013,
+2024-07-14 17:34:16.338000,14.13,Caps,G2 Esports,Tristana,1.0037352210672703,0.0,Post-patch stability,random_forest,1,0.5354119561701556,
+2024-07-15 12:29:25.725426,14.13,knight,Bilibili Gaming,Yone,0.9619524594697958,0.0,Post-patch stability,random_forest,0,0.33615462307781596,
+2024-07-15 13:16:40.033437,14.13,knight,Bilibili Gaming,Annie,-0.515154104699053,0.0,Post-patch stability,random_forest,0,0.3941457668583663,
+2024-07-17 08:00:57.755721,14.13,ShowMaker,Dplus KIA,LeBlanc,1.004938672570903,0.0,Post-patch stability,random_forest,0,0.3762882594785848,
+2024-07-17 08:52:54.451943,14.13,ShowMaker,Dplus KIA,Ziggs,1.0171659038653302,0.0,Post-patch stability,random_forest,0,0.36110942789706557,
+2024-07-18 08:00:49.765359,14.13,Faker,T1,Tristana,-1.5670575037871324,0.0,Post-patch stability,random_forest,1,0.6252287237490631,
+2024-07-18 08:52:47.639984,14.13,Faker,T1,Tristana,1.1000439575186838,0.0,Post-patch stability,random_forest,1,0.5638289974989432,
+2024-07-18 09:39:24.945281,14.13,Faker,T1,Tristana,-1.191457084865374,0.0,Post-patch stability,random_forest,1,0.6282346049055879,
+2024-07-18 11:10:25.221161,14.13,knight,Bilibili Gaming,Zeri,-0.3206200899821493,0.0,Post-patch stability,random_forest,0,0.465902410057402,
+2024-07-18 11:16:49.261478,14.13,Chovy,Gen.G,Tristana,1.329528742714362,0.0,Post-patch stability,random_forest,0,0.4837537526602056,
+2024-07-18 12:03:43.539063,14.13,knight,Bilibili Gaming,Yone,0.4582208322051517,0.0,Post-patch stability,random_forest,0,0.460599990214047,
+2024-07-18 12:07:28.310694,14.13,Chovy,Gen.G,Azir,0.0675109870851424,0.0,Post-patch stability,random_forest,0,0.3950012664101258,
+2024-07-18 12:54:24.640323,14.13,knight,Bilibili Gaming,Ahri,-0.2893969907025662,0.0,Post-patch stability,random_forest,0,0.420507338155337,
+2024-07-19 08:01:27.773238,14.13,Bdd,KT Rolster,Azir,0.577213632828239,0.0,Post-patch stability,random_forest,0,0.1720607678453262,
+2024-07-19 08:56:53.888348,14.13,Bdd,KT Rolster,Tristana,0.1762195969926529,0.0,Post-patch stability,random_forest,0,0.19177159246693665,
+2024-07-20 06:02:41.314536,14.13,Faker,T1,Corki,-0.6235108743963723,1.0,Post-patch stability,random_forest,0,0.49224208105715095,
+2024-07-20 06:52:58.515937,14.13,Faker,T1,Lucian,-0.6455002542836326,1.0,Post-patch stability,random_forest,1,0.6255635444174881,
+2024-07-20 08:32:20.349803,14.13,Chovy,Gen.G,Yone,-1.2212188829144612,0.0,Post-patch stability,random_forest,0,0.4068317447311607,
+2024-07-20 08:32:20.349803,14.13,ShowMaker,Dplus KIA,Twisted Fate,0.5321051032400524,0.0,Post-patch stability,random_forest,1,0.6365081938580444,
+2024-07-20 09:24:39.031790,14.13,Chovy,Gen.G,Azir,0.0073485175550539,0.0,Post-patch stability,random_forest,1,0.5286909607502561,
+2024-07-20 09:24:39.031790,14.13,ShowMaker,Dplus KIA,LeBlanc,-0.3819443602295849,1.0,Post-patch stability,random_forest,0,0.42398427890179285,
+2024-07-20 10:21:12.183359,14.13,Chovy,Gen.G,Azir,1.0845669012608117,1.0,Post-patch stability,random_forest,0,0.297586140569347,
+2024-07-20 10:21:12.183359,14.13,ShowMaker,Dplus KIA,Ziggs,-0.4785435461740223,1.0,Post-patch stability,random_forest,0,0.4714332875903313,
+2024-07-20 11:13:12.191000,14.13,knight,Bilibili Gaming,Tristana,-0.0730297040567031,1.0,Post-patch stability,random_forest,0,0.1985513245033206,
+2024-07-20 12:12:14.716000,14.13,knight,Bilibili Gaming,Tristana,0.2429325618195906,1.0,Post-patch stability,random_forest,0,0.46110261551448434,
+2024-07-20 12:58:13.356000,14.13,knight,Bilibili Gaming,Tristana,0.6760745150904649,0.0,Post-patch stability,random_forest,1,0.6082537375006349,
+2024-07-21 06:01:26.900619,14.13,Bdd,KT Rolster,Azir,0.5126930097190665,0.0,Post-patch stability,random_forest,0,0.22885031417752888,
+2024-07-21 06:50:11.973503,14.13,Bdd,KT Rolster,Azir,-0.2423474048485816,0.0,Post-patch stability,random_forest,0,0.3482242856852492,
+2024-07-21 07:32:28.068746,14.13,Bdd,KT Rolster,Azir,-0.5675402666353605,1.0,Post-patch stability,random_forest,0,0.05520135163458363,
+2024-07-22 15:02:22.899649,14.13,Caps,G2 Esports,Ezreal,0.5132399747472975,0.0,Post-patch stability,random_forest,1,0.6078817693932482,
+2024-07-22 15:48:40.063112,14.13,Caps,G2 Esports,Lucian,0.1328099048960108,1.0,Post-patch stability,random_forest,1,0.579532966703123,
+2024-07-22 16:43:07.897688,14.13,Caps,G2 Esports,Ezreal,-0.1583538867696531,1.0,Post-patch stability,random_forest,1,0.6696828586593031,
+2024-07-22 17:51:05.173571,14.13,Caps,G2 Esports,Corki,-0.3320677205862565,1.0,Post-patch stability,random_forest,1,0.7142547016523847,
+2024-07-22 18:40:44.699482,14.13,Caps,G2 Esports,Lucian,-0.7327799604653387,0.0,Post-patch stability,random_forest,1,0.6479022858771364,
+2024-07-23 09:11:44.165000,14.13,knight,Bilibili Gaming,Yone,-1.1063655921607372,0.0,Post-patch stability,random_forest,0,0.4306296195878538,
+2024-07-23 10:02:34.005000,14.13,knight,Bilibili Gaming,Yone,0.326886433021607,1.0,Post-patch stability,random_forest,0,0.29712873120971006,
+2024-07-23 10:46:31.190000,14.13,knight,Bilibili Gaming,Corki,-0.005651635117561,1.0,Post-patch stability,random_forest,0,0.34678432848599705,
+2024-08-14 08:00:52.854287,14.16,Bdd,KT Rolster,Corki,1.234317168593883,0.0,Post-patch stability,random_forest,1,0.7327422361389107,
+2024-08-14 08:52:55.282338,14.16,Bdd,KT Rolster,Corki,0.6090221072089375,1.0,Post-patch stability,random_forest,1,0.5825954943342783,
+2024-08-14 10:36:24.019763,14.16,Faker,T1,Yone,-1.125759153199415,0.0,Post-patch stability,random_forest,1,0.5939713080129804,
+2024-08-14 11:32:30.583246,14.16,Faker,T1,Azir,0.3745304889854813,0.0,Post-patch stability,random_forest,1,0.6803046936551563,
+2024-08-14 12:23:32.674747,14.16,Faker,T1,Azir,-0.0524858633038507,1.0,Post-patch stability,random_forest,1,0.7696151246574426,
+2024-08-15 10:31:56.226116,14.16,ShowMaker,Dplus KIA,LeBlanc,0.216811275460029,1.0,Post-patch stability,random_forest,0,0.38440818506088575,
+2024-08-15 11:39:00.341412,14.16,ShowMaker,Dplus KIA,Zeri,0.7682013364873721,0.0,Post-patch stability,random_forest,1,0.6048545144749208,
+2024-08-16 11:59:12.213053,14.16,Chovy,Gen.G,Tristana,0.4869677184416479,1.0,Post-patch stability,random_forest,1,0.8380056920497471,
+2024-08-16 12:52:55.839382,14.16,Chovy,Gen.G,Tristana,0.8959072194817225,1.0,Post-patch stability,random_forest,1,0.9382070405035863,
+2024-08-17 06:00:57.393000,14.16,Bdd,KT Rolster,Smolder,0.7157435430253352,1.0,Post-patch stability,random_forest,1,0.8526664106082725,
+2024-08-17 06:00:57.393000,14.16,ShowMaker,Dplus KIA,Corki,0.8526679604773486,0.0,Post-patch stability,random_forest,1,0.600584208878467,
+2024-08-17 07:08:32.643000,14.16,Bdd,KT Rolster,Corki,-0.1903525935836231,1.0,Post-patch stability,random_forest,1,0.8319701796252457,
+2024-08-17 07:08:32.643000,14.16,ShowMaker,Dplus KIA,Yone,-0.7276172918853124,1.0,Post-patch stability,random_forest,1,0.5005114575123306,
+2024-08-17 09:02:53.125793,14.16,Faker,T1,Azir,-0.0034234720179678,1.0,Post-patch stability,random_forest,1,0.5893952654025248,
+2024-08-17 09:55:00.619696,14.16,Faker,T1,Corki,0.588574884637347,0.0,Post-patch stability,random_forest,1,0.7356090804458791,
+2024-08-17 10:14:03.957000,14.16,knight,Bilibili Gaming,Corki,1.2107259586027397,0.0,Post-patch stability,random_forest,1,0.7493417084503565,
+2024-08-17 11:14:41.316686,14.16,knight,Bilibili Gaming,Corki,0.0239556154761943,1.0,Post-patch stability,random_forest,1,0.6378999355679906,
+2024-08-17 12:09:16.005189,14.16,knight,Bilibili Gaming,Corki,0.7341016886107403,1.0,Post-patch stability,random_forest,1,0.564646455429283,
+2024-08-18 08:52:40.460488,14.16,Chovy,Gen.G,Tristana,0.4621682881317863,1.0,Post-patch stability,random_forest,1,0.9362709754324072,
+2024-08-18 09:40:44.691302,14.16,Chovy,Gen.G,Tristana,0.3449575634788344,1.0,Post-patch stability,random_forest,1,0.9030522550719463,
+2024-08-18 15:03:40.247345,14.16,Caps,G2 Esports,Smolder,0.4678961307627651,1.0,Post-patch stability,random_forest,1,0.7403568534954449,
+2024-08-18 15:48:16.800651,14.16,Caps,G2 Esports,Corki,0.1104048992657086,1.0,Post-patch stability,random_forest,1,0.6921024082280723,
+2024-08-18 16:38:18.019922,14.16,Caps,G2 Esports,Tristana,0.5567874689082563,1.0,Post-patch stability,random_forest,1,0.7581401224151023,
+2024-08-21 10:12:35.160117,14.16,knight,Bilibili Gaming,Yasuo,-1.5183398414946447,0.0,Post-patch stability,random_forest,1,0.7531486553665132,
+2024-08-21 11:01:17.633260,14.16,knight,Bilibili Gaming,Corki,0.335056755655377,1.0,Post-patch stability,random_forest,1,0.6684929861966711,
+2024-08-21 11:54:07.830892,14.16,knight,Bilibili Gaming,Corki,0.5151244864379404,1.0,Post-patch stability,random_forest,1,0.6035228533540531,
+2024-08-21 12:39:54.969848,14.16,knight,Bilibili Gaming,Corki,1.4791309132459218,0.0,Post-patch stability,random_forest,1,0.5531368506625469,
+2024-08-23 08:04:36.881971,14.16,ShowMaker,Dplus KIA,Nasus,0.1399113186009837,1.0,Post-patch stability,random_forest,1,0.5437235919192493,
+2024-08-23 08:58:33.142918,14.16,ShowMaker,Dplus KIA,Corki,1.0057132927935255,0.0,Post-patch stability,random_forest,1,0.6922707180780807,
+2024-08-23 09:51:44.755326,14.16,ShowMaker,Dplus KIA,Zeri,-0.4175019352487967,1.0,Post-patch stability,random_forest,1,0.5580697576081206,
+2024-08-23 11:03:45.246421,14.16,ShowMaker,Dplus KIA,Yasuo,-0.3210159809962087,1.0,Post-patch stability,random_forest,1,0.649250886757057,
+2024-08-23 15:03:18.663000,14.16,Caps,G2 Esports,Zeri,-0.3772746197308482,1.0,Post-patch stability,random_forest,1,0.6678309039149839,
+2024-08-23 15:55:17.300000,14.16,Caps,G2 Esports,Zeri,-0.311143312265618,1.0,Post-patch stability,random_forest,1,0.6218595123417209,
+2024-08-23 16:57:39.197119,14.16,Caps,G2 Esports,Tristana,1.223980439552078,0.0,Post-patch stability,random_forest,1,0.7594954115198802,
+2024-08-23 17:45:15.546316,14.16,Caps,G2 Esports,Smolder,0.358947217902114,1.0,Post-patch stability,random_forest,1,0.6299523743604734,
+2024-08-23 18:45:26.806132,14.16,Caps,G2 Esports,Tristana,0.5748500475171643,1.0,Post-patch stability,random_forest,1,0.7815699846915029,
+2024-08-24 06:01:44.051001,14.16,Bdd,KT Rolster,Smolder,0.3156501809113397,1.0,Post-patch stability,random_forest,1,0.9191412119393305,
+2024-08-24 06:01:44.051001,14.16,Faker,T1,Azir,-0.4824801772142272,1.0,Post-patch stability,random_forest,1,0.6818965883133304,
+2024-08-24 06:58:26.753442,14.16,Bdd,KT Rolster,Smolder,0.6064630150687914,1.0,Post-patch stability,random_forest,1,0.9018605418892883,
+2024-08-24 06:58:26.753442,14.16,Faker,T1,Yasuo,-0.934624792576466,1.0,Post-patch stability,random_forest,1,0.799316317006284,
+2024-08-24 07:50:21.024184,14.16,Bdd,KT Rolster,Smolder,-0.111882154551114,1.0,Post-patch stability,random_forest,1,0.8948306514254637,
+2024-08-24 07:50:21.024184,14.16,Faker,T1,Azir,-0.3598732157758642,1.0,Post-patch stability,random_forest,1,0.8089883834770657,
+2024-08-24 08:46:31.854747,14.16,Bdd,KT Rolster,Corki,-0.1985372651568137,1.0,Post-patch stability,random_forest,1,0.8001603989107647,
+2024-08-24 08:46:31.854747,14.16,Faker,T1,Smolder,-0.1764278144671094,1.0,Post-patch stability,random_forest,1,0.9030200842603031,
+2024-08-28 08:04:36.957000,14.16,Chovy,Gen.G,Tristana,0.3441063585890133,1.0,Post-patch stability,random_forest,1,0.8544446317820235,
+2024-08-28 08:04:36.957000,14.16,ShowMaker,Dplus KIA,Corki,0.0661269708010613,1.0,Post-patch stability,random_forest,1,0.5364279854133159,
+2024-08-28 09:04:18.688000,14.16,Chovy,Gen.G,Garen,0.3979750429399635,1.0,Post-patch stability,random_forest,1,0.7173692972500814,
+2024-08-28 09:04:18.688000,14.16,ShowMaker,Dplus KIA,Nasus,-1.5019638030121196,0.0,Post-patch stability,random_forest,1,0.6754603520681209,
+2024-08-28 09:56:05.202000,14.16,Chovy,Gen.G,Corki,0.2159836468013423,1.0,Post-patch stability,random_forest,1,0.6069134533008707,
+2024-08-28 09:56:05.202000,14.16,ShowMaker,Dplus KIA,Taliyah,-0.4886451524466605,1.0,Post-patch stability,random_forest,0,0.460118134900776,
+2024-08-29 08:02:42.229019,14.16,Faker,T1,LeBlanc,-0.6033398636788179,1.0,Post-patch stability,random_forest,1,0.8226020028294281,
+2024-08-29 08:56:38.800437,14.16,Faker,T1,Nasus,-0.9036291545337856,1.0,Post-patch stability,random_forest,1,0.8479848309867256,
+2024-08-29 09:57:17.962357,14.16,Faker,T1,Smolder,-0.5498125507179799,1.0,Post-patch stability,random_forest,1,0.7125050569853753,
+2024-08-30 08:23:35.103213,14.16,knight,Bilibili Gaming,Smolder,0.2016751555008155,1.0,Post-patch stability,random_forest,0,0.4848715360676475,
+2024-08-30 09:14:10.920967,14.16,knight,Bilibili Gaming,Zeri,1.405456338774951,0.0,Post-patch stability,random_forest,1,0.70673602525203,
+2024-08-30 10:11:09.411937,14.16,knight,Bilibili Gaming,Smolder,0.4785980546252419,1.0,Post-patch stability,random_forest,1,0.6207639829853815,
+2024-08-31 06:01:53.734719,14.16,Chovy,Gen.G,Zeri,-0.2834326254429995,0.0,Post-patch stability,random_forest,1,0.8080302457305153,
+2024-08-31 06:58:11.039363,14.16,Chovy,Gen.G,Smolder,0.8259879339755681,1.0,Post-patch stability,random_forest,1,0.6092297862304137,
+2024-08-31 07:48:53.158418,14.16,Chovy,Gen.G,Corki,0.7703789010629815,1.0,Post-patch stability,random_forest,0,0.4419125170177632,
+2024-08-31 08:43:38.315335,14.16,Chovy,Gen.G,Corki,1.6378768189025008,0.0,Post-patch stability,random_forest,1,0.8202407242900226,
+2024-08-31 16:07:39.545123,14.16,Caps,G2 Esports,Yasuo,-0.846317106874197,0.0,Post-patch stability,random_forest,1,0.860189301747566,
+2024-08-31 16:55:38.291684,14.16,Caps,G2 Esports,Corki,0.4464846757662762,1.0,Post-patch stability,random_forest,1,0.6912610575570676,
+2024-08-31 17:45:47.599120,14.16,Caps,G2 Esports,Corki,0.2414526035261951,1.0,Post-patch stability,random_forest,1,0.7236726950740214,
+2024-08-31 18:35:25.989963,14.16,Caps,G2 Esports,Corki,0.7138725590021924,0.0,Post-patch stability,random_forest,1,0.9110168290004071,
+2024-09-01 06:08:44.488120,14.16,Faker,T1,Corki,-0.450415719179481,1.0,Post-patch stability,random_forest,1,0.7674934733860619,
+2024-09-01 06:08:44.488120,14.16,ShowMaker,Dplus KIA,Taliyah,0.0796584574400239,1.0,Post-patch stability,random_forest,1,0.5518129679879428,
+2024-09-01 07:03:29.267991,14.16,Faker,T1,Corki,-0.0176000558631976,1.0,Post-patch stability,random_forest,1,0.5574415241614902,
+2024-09-01 07:03:29.267991,14.16,ShowMaker,Dplus KIA,Nasus,-0.999457101231307,0.0,Post-patch stability,random_forest,1,0.5789765303335241,
+2024-09-01 07:57:01.544580,14.16,Faker,T1,Corki,1.4213438283329325,0.0,Post-patch stability,random_forest,1,0.8292633272011706,
+2024-09-01 07:57:01.544580,14.16,ShowMaker,Dplus KIA,LeBlanc,-0.5069937072842967,1.0,Post-patch stability,random_forest,1,0.5069503244055398,
+2024-09-01 08:46:24.577559,14.16,Faker,T1,Azir,-0.4698240233309936,1.0,Post-patch stability,random_forest,1,0.5992167224983389,
+2024-09-01 08:46:24.577559,14.16,ShowMaker,Dplus KIA,Yone,-0.919505379890068,0.0,Post-patch stability,random_forest,1,0.5194851464218098,
+2024-09-01 16:08:28.332471,14.16,Caps,G2 Esports,Corki,0.1376592089836864,1.0,Post-patch stability,random_forest,1,0.6828250697481321,
+2024-09-01 17:20:10.201305,14.16,Caps,G2 Esports,Corki,0.1008034176267162,1.0,Post-patch stability,random_forest,1,0.6773086041266825,
+2024-09-01 18:18:29.463682,14.16,Caps,G2 Esports,Azir,0.488890521546164,1.0,Post-patch stability,random_forest,1,0.7554456882172933,
+2024-09-01 19:12:20.759074,14.16,Caps,G2 Esports,Azir,-0.2594092328169474,1.0,Post-patch stability,random_forest,1,0.8098270609426702,
+2024-09-07 06:16:24.142000,14.16,Faker,T1,Caitlyn,-0.6955418918655557,1.0,Post-patch stability,random_forest,1,0.6070376699902955,
+2024-09-07 07:09:38.879000,14.16,Faker,T1,Tristana,0.6055440014872956,0.0,Post-patch stability,random_forest,1,0.6979764258031612,
+2024-09-07 08:15:18.788661,14.16,Faker,T1,Corki,-1.395650353579736,0.0,Post-patch stability,random_forest,1,0.7156090764397856,
+2024-09-07 09:02:18.213178,14.16,Faker,T1,Tristana,-0.5138713697183451,1.0,Post-patch stability,random_forest,0,0.41245476675153164,
+2024-09-08 06:24:00.567000,14.16,Chovy,Gen.G,Smolder,0.7942553385388939,1.0,Post-patch stability,random_forest,1,0.7562858221290435,
+2024-09-08 07:34:45.401000,14.16,Chovy,Gen.G,Corki,1.0616942952452766,1.0,Post-patch stability,random_forest,1,0.9264672576567182,
+2024-09-08 08:36:20.079000,14.16,Chovy,Gen.G,Corki,0.1989828960063487,1.0,Post-patch stability,random_forest,1,0.7279508722997693,
+2024-09-08 09:31:54.061000,14.16,Chovy,Gen.G,Corki,0.1200820947505794,1.0,Post-patch stability,random_forest,1,0.690250624478314,
+2024-09-08 10:35:46.308000,14.16,Chovy,Gen.G,Corki,-0.9396385641278494,0.0,Post-patch stability,random_forest,1,0.9167053528948134,
+2024-03-06 11:04:04.071462,14.5,Chovy,Gen.G,Taliyah,0.5444219700150499,,High-performance post-patch match,logistic_regression,1,0.8663613347434453,1.0
+2024-03-06 11:55:10.627304,14.5,Chovy,Gen.G,Ahri,0.3262037516503213,,High-performance post-patch match,logistic_regression,1,0.8863022923174553,1.0
+2024-03-07 07:59:24.589000,14.5,Faker,T1,Taliyah,-0.0965818532311082,,High-performance post-patch match,logistic_regression,0,0.4291400732256336,0.0
+2024-03-07 08:49:36.125000,14.5,Faker,T1,Taliyah,0.800120918691309,,High-performance post-patch match,logistic_regression,0,0.2251345318475537,1.0
+2024-03-07 09:55:37.252007,14.5,Bdd,KT Rolster,Orianna,0.3470112444653619,,High-performance post-patch match,logistic_regression,1,0.6205271567445747,1.0
+2024-03-07 10:58:58.437908,14.5,Bdd,KT Rolster,Orianna,-0.1628522158969524,,High-performance post-patch match,logistic_regression,1,0.599178731890513,0.0
+2024-03-08 09:12:48.643000,14.5,knight,Bilibili Gaming,Ahri,0.7582816964371991,,High-performance post-patch match,logistic_regression,1,0.8844167903967821,1.0
+2024-03-08 09:50:31.639459,14.5,ShowMaker,Dplus KIA,Taliyah,-0.595009900664278,,High-performance post-patch match,logistic_regression,0,0.42462177129945244,0.0
+2024-03-08 09:59:21.971296,14.5,knight,Bilibili Gaming,Karma,0.7694534151967538,,High-performance post-patch match,logistic_regression,0,0.3979363931651179,1.0
+2024-03-08 10:54:40.765964,14.5,ShowMaker,Dplus KIA,Aurelion Sol,0.927433090521101,,High-performance post-patch match,logistic_regression,1,0.502048698228592,1.0
+2024-03-09 08:00:23.139426,14.5,Chovy,Gen.G,Corki,0.7563741101712038,,High-performance post-patch match,logistic_regression,1,0.9389194796174267,1.0
+2024-03-09 08:00:23.139426,14.5,Faker,T1,LeBlanc,-1.6225238559381048,,High-performance post-patch match,logistic_regression,0,0.2298663091478443,0.0
+2024-03-09 08:49:07.938893,14.5,Chovy,Gen.G,Ahri,0.208266292125963,,High-performance post-patch match,logistic_regression,1,0.7858391861098254,1.0
+2024-03-09 08:49:07.938893,14.5,Faker,T1,Taliyah,-0.7465237701886444,,High-performance post-patch match,logistic_regression,0,0.48329013432026585,0.0
+2024-03-09 17:54:15.319213,14.5,Caps,G2 Esports,Ahri,0.2769074223252052,,High-performance post-patch match,logistic_regression,0,0.43722545967749116,1.0
+2024-03-10 07:10:43.699000,14.5,knight,Bilibili Gaming,Neeko,0.0798541263266223,,High-performance post-patch match,logistic_regression,0,0.4907490471258262,0.0
+2024-03-10 07:55:22.863000,14.5,knight,Bilibili Gaming,Ahri,1.0880021105289863,,High-performance post-patch match,logistic_regression,1,0.7993647725687996,1.0
+2024-03-10 08:00:10.770467,14.5,Bdd,KT Rolster,Corki,0.0682925929938908,,High-performance post-patch match,logistic_regression,1,0.7336469457574212,0.0
+2024-03-10 08:47:55.881271,14.5,Bdd,KT Rolster,Taliyah,-0.6148022032751628,,High-performance post-patch match,logistic_regression,0,0.4194911469074793,0.0
+2024-03-10 09:42:43.351081,14.5,Bdd,KT Rolster,Taliyah,0.4537247246319685,,High-performance post-patch match,logistic_regression,1,0.5132549963574916,1.0
+2024-03-10 10:50:13.755488,14.5,ShowMaker,Dplus KIA,Karma,-1.3983178963517944,,High-performance post-patch match,logistic_regression,0,0.3948977957146221,0.0
+2024-03-10 11:56:22.570506,14.5,ShowMaker,Dplus KIA,Karma,0.9360678906197496,,High-performance post-patch match,logistic_regression,0,0.20773230740425866,1.0
+2024-03-10 12:48:09.615140,14.5,ShowMaker,Dplus KIA,LeBlanc,-0.4387491520093125,,High-performance post-patch match,logistic_regression,0,0.10993022149739658,0.0
+2024-03-10 19:23:49.623682,14.5,Caps,G2 Esports,Neeko,-0.1699596469273433,,High-performance post-patch match,logistic_regression,0,0.3354704198730807,0.0
+2024-03-11 19:13:09.880159,14.5,Caps,G2 Esports,Neeko,-0.1122562625566015,,High-performance post-patch match,logistic_regression,0,0.4386186628317449,0.0
+2024-03-13 11:20:26.966281,14.5,Faker,T1,Taliyah,0.4769525150708109,,High-performance post-patch match,logistic_regression,0,0.4117417533187995,1.0
+2024-03-13 11:20:26.966281,14.5,ShowMaker,Dplus KIA,Karma,-1.3594261213317012,,High-performance post-patch match,logistic_regression,0,0.18421091486991492,0.0
+2024-03-13 12:19:41.898664,14.5,Faker,T1,Ahri,-0.1599085460205629,,High-performance post-patch match,logistic_regression,0,0.3456336521129737,0.0
+2024-03-13 12:19:41.898664,14.5,ShowMaker,Dplus KIA,Annie,-0.6825987945861879,,High-performance post-patch match,logistic_regression,0,0.1907585587554071,0.0
+2024-03-14 07:11:38.481000,14.5,knight,Bilibili Gaming,Karma,-0.4830536117853805,,High-performance post-patch match,logistic_regression,1,0.5325288288225577,0.0
+2024-03-14 08:02:26.878000,14.5,knight,Bilibili Gaming,Neeko,-0.3230267257606472,,High-performance post-patch match,logistic_regression,0,0.34516930890629216,0.0
+2024-03-14 10:35:18.645883,14.5,Bdd,KT Rolster,Karma,-0.1131484932460301,,High-performance post-patch match,logistic_regression,0,0.46686115824017177,0.0
+2024-03-14 11:21:35.441342,14.5,Bdd,KT Rolster,Corki,0.7963686090877045,,High-performance post-patch match,logistic_regression,0,0.48294752972783606,1.0
+2024-03-15 07:59:41.359000,14.5,Chovy,Gen.G,Kassadin,1.2512857507963309,,High-performance post-patch match,logistic_regression,1,0.6592982038659648,1.0
+2024-03-15 08:53:11.736000,14.5,Chovy,Gen.G,Taliyah,0.1803229379299441,,High-performance post-patch match,logistic_regression,1,0.7909797856255163,1.0
+2024-03-15 10:29:31.562049,14.5,Faker,T1,Annie,-1.3190010574628543,,High-performance post-patch match,logistic_regression,0,0.20563922771931703,0.0
+2024-03-15 11:22:10.341944,14.5,Faker,T1,Taliyah,0.378280234544742,,High-performance post-patch match,logistic_regression,1,0.5926601520861158,1.0
+2024-03-15 12:15:39.570143,14.5,Faker,T1,Ahri,-0.8848671787848351,,High-performance post-patch match,logistic_regression,0,0.17400687381231106,0.0
+2024-03-16 09:49:32.340054,14.5,Bdd,KT Rolster,Annie,0.4114976623333709,,High-performance post-patch match,logistic_regression,0,0.3471589986204431,1.0
+2024-03-16 10:37:04.744211,14.5,Bdd,KT Rolster,Orianna,-0.0990437053958381,,High-performance post-patch match,logistic_regression,1,0.5774245871090691,0.0
+2024-03-16 11:12:19.994000,14.5,knight,Bilibili Gaming,Taliyah,0.4905490965513682,,High-performance post-patch match,logistic_regression,1,0.6449512219142067,1.0
+2024-03-16 11:38:24.670893,14.5,Bdd,KT Rolster,Syndra,0.3871102950109152,,High-performance post-patch match,logistic_regression,0,0.48062127947037897,1.0
+2024-03-16 12:07:26.456000,14.5,knight,Bilibili Gaming,Ahri,0.373119480828977,,High-performance post-patch match,logistic_regression,1,0.8760624470879438,1.0
+2024-03-16 17:43:04.906091,14.5,Caps,G2 Esports,Ahri,0.4625148860130338,,High-performance post-patch match,logistic_regression,1,0.673599619730436,1.0
+2024-03-17 09:47:57.277545,14.5,Chovy,Gen.G,Corki,0.4551759131518464,,High-performance post-patch match,logistic_regression,1,0.95188072180423,1.0
+2024-03-17 09:47:57.277545,14.5,ShowMaker,Dplus KIA,Annie,0.0238678349205965,,High-performance post-patch match,logistic_regression,0,0.08552843602850478,0.0
+2024-03-17 10:42:55.024150,14.5,Chovy,Gen.G,Taliyah,-0.4833059188560562,,High-performance post-patch match,logistic_regression,1,0.8814651838406519,0.0
+2024-03-17 10:42:55.024150,14.5,ShowMaker,Dplus KIA,Annie,-1.3118784116424431,,High-performance post-patch match,logistic_regression,0,0.08575734523035554,0.0
+2024-03-17 11:44:20.464825,14.5,Chovy,Gen.G,Tristana,0.6500977689202397,,High-performance post-patch match,logistic_regression,1,0.8913258626284393,1.0
+2024-03-17 11:44:20.464825,14.5,ShowMaker,Dplus KIA,Annie,-1.466707784804366,,High-performance post-patch match,logistic_regression,0,0.06382976487909299,0.0
+2024-03-17 19:33:47.903000,14.5,Caps,G2 Esports,Ahri,-0.7045654305507413,,High-performance post-patch match,logistic_regression,1,0.6938150033852447,0.0
+2024-03-18 17:38:32.087515,14.5,Caps,G2 Esports,Karma,-0.2577144635623801,,High-performance post-patch match,logistic_regression,1,0.7190273017851048,0.0
+2024-03-20 08:00:25.553000,14.5,Chovy,Gen.G,Yone,-0.4866073501319886,,High-performance post-patch match,logistic_regression,1,0.764288056037946,0.0
+2024-03-20 08:47:32.811498,14.5,Chovy,Gen.G,Orianna,0.3086297271001457,,High-performance post-patch match,logistic_regression,1,0.8311245173713242,1.0
+2024-03-20 10:30:28.691010,14.5,Faker,T1,Orianna,0.3507242103320321,,High-performance post-patch match,logistic_regression,0,0.3273845881008203,1.0
+2024-03-20 11:12:52.274000,14.5,knight,Bilibili Gaming,LeBlanc,0.5301074697649789,,High-performance post-patch match,logistic_regression,1,0.6096008271793427,1.0
+2024-03-20 11:14:35.621482,14.5,Faker,T1,Taliyah,-0.2801837872399403,,High-performance post-patch match,logistic_regression,0,0.42602020920562844,0.0
+2024-03-20 11:58:01.519000,14.5,knight,Bilibili Gaming,Taliyah,-0.3286921520112322,,High-performance post-patch match,logistic_regression,1,0.8674158101757383,0.0
+2024-03-20 12:49:17.118919,14.5,knight,Bilibili Gaming,Karma,0.3682843104886013,,High-performance post-patch match,logistic_regression,1,0.6762668959930673,1.0
+2024-03-21 08:00:44.206000,14.5,Bdd,KT Rolster,Taliyah,0.6557486127318949,,High-performance post-patch match,logistic_regression,0,0.293422951420048,1.0
+2024-03-21 09:02:02.606000,14.5,Bdd,KT Rolster,Annie,-0.7132764494714081,,High-performance post-patch match,logistic_regression,0,0.17016123442302983,0.0
+2024-03-21 09:55:56.416000,14.5,Bdd,KT Rolster,Ahri,-0.2657580914515381,,High-performance post-patch match,logistic_regression,0,0.2224262923811451,0.0
+2024-03-21 11:26:15.780456,14.5,ShowMaker,Dplus KIA,Tristana,-0.4944005181495299,,High-performance post-patch match,logistic_regression,0,0.30764157454424146,0.0
+2024-03-21 12:25:48.179095,14.5,ShowMaker,Dplus KIA,Tristana,-1.2709920615878312,,High-performance post-patch match,logistic_regression,0,0.18702607878011782,0.0
+2024-03-22 08:00:52.210113,14.5,Chovy,Gen.G,Sylas,0.550734345454299,,High-performance post-patch match,logistic_regression,1,0.669472346414017,1.0
+2024-03-22 08:50:09.521035,14.5,Chovy,Gen.G,Aurelion Sol,0.5926437794088483,,High-performance post-patch match,logistic_regression,1,0.8763110700888962,1.0
+2024-03-22 17:38:25.463220,14.5,Caps,G2 Esports,Annie,0.175930561395063,,High-performance post-patch match,logistic_regression,1,0.6766815208885816,1.0
+2024-03-23 06:01:40.854036,14.5,ShowMaker,Dplus KIA,Ahri,-0.8970644527038937,,High-performance post-patch match,logistic_regression,0,0.15139923428359564,0.0
+2024-03-23 06:57:51.611838,14.5,ShowMaker,Dplus KIA,Taliyah,-0.5819424761362211,,High-performance post-patch match,logistic_regression,0,0.10411553524413533,0.0
+2024-03-23 08:42:17.580420,14.5,Faker,T1,Hwei,-0.4727186758982771,,High-performance post-patch match,logistic_regression,0,0.4237912607320472,0.0
+2024-03-23 09:28:31.028481,14.5,Faker,T1,Corki,0.4046683605716841,,High-performance post-patch match,logistic_regression,0,0.24858286830989554,1.0
+2024-03-23 11:11:08.901038,14.5,knight,Bilibili Gaming,Ahri,0.2808186584593073,,High-performance post-patch match,logistic_regression,1,0.7341452164130093,1.0
+2024-03-23 12:05:22.376085,14.5,knight,Bilibili Gaming,Ahri,0.120450341380812,,High-performance post-patch match,logistic_regression,1,0.7347028026016175,1.0
+2024-03-23 18:37:44.174266,14.5,Caps,G2 Esports,Karma,-1.3890974955994686,,High-performance post-patch match,logistic_regression,1,0.601069551406045,0.0
+2024-03-24 08:46:02.255000,14.5,Bdd,KT Rolster,Syndra,0.7500127273661065,,High-performance post-patch match,logistic_regression,0,0.391894443731051,1.0
+2024-03-24 09:36:23.665000,14.5,Bdd,KT Rolster,Taliyah,-0.0306334906233195,,High-performance post-patch match,logistic_regression,0,0.2954244240480885,0.0
+2024-03-25 18:22:50.975532,14.5,Caps,G2 Esports,Ahri,-0.7714949664393593,,High-performance post-patch match,logistic_regression,1,0.7018832962230472,0.0
+2024-03-31 06:01:58.473716,14.5,Bdd,KT Rolster,Corki,-0.4415483711641806,,High-performance post-patch match,logistic_regression,0,0.26845749985302153,0.0
+2024-03-31 06:01:58.473716,14.5,ShowMaker,Dplus KIA,Azir,-0.286720918019371,,High-performance post-patch match,logistic_regression,0,0.30578691161819765,0.0
+2024-03-31 07:03:50.677265,14.5,Bdd,KT Rolster,Veigar,0.5913971087135516,,High-performance post-patch match,logistic_regression,0,0.16353568133364194,1.0
+2024-03-31 07:03:50.677265,14.5,ShowMaker,Dplus KIA,Azir,-0.6754030397516364,,High-performance post-patch match,logistic_regression,0,0.20223862120262084,0.0
+2024-03-31 08:08:05.384103,14.5,Bdd,KT Rolster,Veigar,-0.1459233321854742,,High-performance post-patch match,logistic_regression,0,0.4705929446895084,0.0
+2024-03-31 08:08:05.384103,14.5,ShowMaker,Dplus KIA,Azir,-0.5653234325226832,,High-performance post-patch match,logistic_regression,0,0.294269135055531,0.0
+2024-03-31 09:10:42.498349,14.5,Bdd,KT Rolster,Taliyah,-1.1320486253546125,,High-performance post-patch match,logistic_regression,0,0.2861674389024207,0.0
+2024-03-31 09:10:42.498349,14.5,ShowMaker,Dplus KIA,Azir,0.7357627254577691,,High-performance post-patch match,logistic_regression,0,0.1831831944548906,1.0
+2024-03-31 09:58:46.455100,14.5,Bdd,KT Rolster,Azir,-1.717763354919648,,High-performance post-patch match,logistic_regression,0,0.24846755425375452,0.0
+2024-03-31 09:58:46.455100,14.5,ShowMaker,Dplus KIA,Sylas,0.0535658497049281,,High-performance post-patch match,logistic_regression,0,0.14011807461642464,0.0
+2024-03-31 16:47:52.513888,14.5,Caps,G2 Esports,Taliyah,0.189223594837347,,High-performance post-patch match,logistic_regression,1,0.6087553404494406,1.0
+2024-03-31 17:33:51.290379,14.5,Caps,G2 Esports,Taliyah,0.5395301325633496,,High-performance post-patch match,logistic_regression,1,0.5627389474824769,1.0
+2024-04-01 17:37:36.562897,14.5,Caps,G2 Esports,Aurelion Sol,0.332012072968703,,High-performance post-patch match,logistic_regression,1,0.6227847943109367,1.0
+2024-04-01 18:21:19.170359,14.5,Caps,G2 Esports,Azir,0.8124134001810468,,High-performance post-patch match,logistic_regression,0,0.3889498003447604,1.0
+2024-06-26 08:00:11.642541,14.13,Faker,T1,Tristana,-0.1733840921398291,,High-performance post-patch match,logistic_regression,0,0.3922242675750294,0.0
+2024-06-26 08:56:53.332746,14.13,Faker,T1,Tristana,-0.2281781870282967,,High-performance post-patch match,logistic_regression,0,0.4036631906684095,0.0
+2024-06-26 10:30:59.483918,14.13,Chovy,Gen.G,Lucian,0.8002859906286437,,High-performance post-patch match,logistic_regression,1,0.5123968971185396,1.0
+2024-06-26 11:26:18.632699,14.13,Chovy,Gen.G,Corki,0.7502976340702482,,High-performance post-patch match,logistic_regression,1,0.6434854726398439,1.0
+2024-06-27 08:01:32.354740,14.13,ShowMaker,Dplus KIA,LeBlanc,-0.6144098373947666,,High-performance post-patch match,logistic_regression,0,0.3928792002136498,0.0
+2024-06-27 08:51:20.611974,14.13,ShowMaker,Dplus KIA,Tristana,0.7354809185205972,,High-performance post-patch match,logistic_regression,1,0.7508572285543668,1.0
+2024-06-27 10:31:11.998000,14.13,Bdd,KT Rolster,Taliyah,0.3908960916044365,,High-performance post-patch match,logistic_regression,1,0.8587614651415816,1.0
+2024-06-27 11:10:56.104000,14.13,knight,Bilibili Gaming,Lucian,-0.218822574900965,,High-performance post-patch match,logistic_regression,1,0.6288951182602172,0.0
+2024-06-27 11:23:33.239000,14.13,Bdd,KT Rolster,Tristana,-0.3671939888182234,,High-performance post-patch match,logistic_regression,1,0.9418361029545993,0.0
+2024-06-27 12:05:22.429000,14.13,knight,Bilibili Gaming,Yone,-0.4265244518281428,,High-performance post-patch match,logistic_regression,1,0.6865554581186931,0.0
+2024-06-27 12:21:35.530969,14.13,Bdd,KT Rolster,Ahri,0.5584407209960118,,High-performance post-patch match,logistic_regression,1,0.5497136243083671,1.0
+2024-06-27 12:53:04.508000,14.13,knight,Bilibili Gaming,Corki,0.6650259437323439,,High-performance post-patch match,logistic_regression,1,0.8563360404400691,1.0
+2024-06-28 10:48:26.005157,14.13,Chovy,Gen.G,Hwei,0.3018352111549052,,High-performance post-patch match,logistic_regression,0,0.24837664089632813,1.0
+2024-06-28 11:30:49.336549,14.13,Chovy,Gen.G,Corki,0.4534668885712375,,High-performance post-patch match,logistic_regression,1,0.7576182111643577,1.0
+2024-06-29 06:02:06.905875,14.13,Bdd,KT Rolster,Taliyah,-0.1079309809897891,,High-performance post-patch match,logistic_regression,1,0.7814548152422753,0.0
+2024-06-29 06:02:06.905875,14.13,Faker,T1,Azir,0.8913842071776212,,High-performance post-patch match,logistic_regression,0,0.27328691662973936,1.0
+2024-06-29 06:59:27.303920,14.13,Bdd,KT Rolster,Taliyah,0.1825376903228163,,High-performance post-patch match,logistic_regression,1,0.6215752316572133,1.0
+2024-06-29 06:59:27.303920,14.13,Faker,T1,Azir,-0.4843709317501231,,High-performance post-patch match,logistic_regression,0,0.4576386515471839,0.0
+2024-06-29 08:32:48.542379,14.13,Bdd,KT Rolster,Azir,0.7691528447839656,,High-performance post-patch match,logistic_regression,0,0.454844910895593,1.0
+2024-06-29 08:32:48.542379,14.13,Faker,T1,Tristana,-0.7424848395321301,,High-performance post-patch match,logistic_regression,0,0.47345283084551404,0.0
+2024-06-29 16:46:12.145960,14.13,Caps,G2 Esports,Corki,1.2744889194980296,,High-performance post-patch match,logistic_regression,1,0.7868949566158844,1.0
+2024-06-30 08:46:34.024264,14.13,ShowMaker,Dplus KIA,Taliyah,-0.3561222998482027,,High-performance post-patch match,logistic_regression,1,0.5742971876961405,0.0
+2024-06-30 09:57:11.425740,14.13,ShowMaker,Dplus KIA,Twisted Fate,0.6354751892299771,,High-performance post-patch match,logistic_regression,0,0.4720407927687854,1.0
+2024-06-30 10:47:53.878358,14.13,ShowMaker,Dplus KIA,Taliyah,0.0804187662118673,,High-performance post-patch match,logistic_regression,0,0.23948196447008557,0.0
+2024-06-30 17:45:59.999313,14.13,Caps,G2 Esports,Corki,-0.0050272636978644,,High-performance post-patch match,logistic_regression,1,0.8618473342894664,0.0
+2024-07-04 15:05:15.323000,14.13,Faker,T1,Corki,0.4914177565690255,,High-performance post-patch match,logistic_regression,0,0.14757302393899713,1.0
+2024-07-04 15:05:15.323000,14.13,knight,Bilibili Gaming,Tristana,-0.2593167059687508,,High-performance post-patch match,logistic_regression,1,0.5833023108159359,0.0
+2024-07-04 16:13:25.257328,14.13,Faker,T1,Tristana,-1.1651273395127524,,High-performance post-patch match,logistic_regression,0,0.3442297668892858,0.0
+2024-07-04 16:13:25.257328,14.13,knight,Bilibili Gaming,Corki,0.2493639575537841,,High-performance post-patch match,logistic_regression,0,0.3428633935878014,1.0
+2024-07-04 17:32:01.708955,14.13,Faker,T1,Tristana,0.6358707248285436,,High-performance post-patch match,logistic_regression,0,0.3314549380433611,1.0
+2024-07-04 17:32:01.708955,14.13,knight,Bilibili Gaming,Corki,-0.6343798871154824,,High-performance post-patch match,logistic_regression,1,0.6900997868599025,0.0
+2024-07-05 15:06:26.781174,14.13,Chovy,Gen.G,Corki,-0.2420673871826655,,High-performance post-patch match,logistic_regression,1,0.9248865636757561,0.0
+2024-07-05 16:01:59.309337,14.13,Chovy,Gen.G,Hwei,-0.1322098319034984,,High-performance post-patch match,logistic_regression,1,0.6046136703349315,0.0
+2024-07-05 17:22:39.831894,14.13,Caps,G2 Esports,Corki,-0.4695772104622979,,High-performance post-patch match,logistic_regression,0,0.49300173399465225,0.0
+2024-07-05 18:23:23.644733,14.13,Caps,G2 Esports,Tristana,0.7402054480116265,,High-performance post-patch match,logistic_regression,1,0.6468110585894742,1.0
+2024-07-05 19:24:23.577590,14.13,Caps,G2 Esports,Tristana,0.9494907921808314,,High-performance post-patch match,logistic_regression,1,0.6763227718961593,1.0
+2024-07-06 15:14:17.213500,14.13,Faker,T1,Azir,-0.0610592427685955,,High-performance post-patch match,logistic_regression,0,0.43272936076764024,0.0
+2024-07-06 16:17:45.057504,14.13,Faker,T1,Tristana,-0.0669143338126594,,High-performance post-patch match,logistic_regression,0,0.4426723172107852,0.0
+2024-07-06 17:11:33.731067,14.13,Faker,T1,Taliyah,0.8218595359423984,,High-performance post-patch match,logistic_regression,0,0.12643047488339978,1.0
+2024-07-06 18:28:17.452147,14.13,Caps,G2 Esports,Corki,-0.547084513395749,,High-performance post-patch match,logistic_regression,1,0.5424142555557667,0.0
+2024-07-06 19:20:40.559336,14.13,Caps,G2 Esports,LeBlanc,-0.9907172679388412,,High-performance post-patch match,logistic_regression,0,0.21897740017131087,0.0
+2024-07-07 16:08:18.140988,14.13,Faker,T1,Corki,-0.716910406918602,,High-performance post-patch match,logistic_regression,0,0.3804070241596409,0.0
+2024-07-07 16:55:20.216112,14.13,Faker,T1,Ahri,0.0847463832522784,,High-performance post-patch match,logistic_regression,0,0.11588093106863838,0.0
+2024-07-07 18:15:33.627699,14.13,Faker,T1,Azir,0.416808307809761,,High-performance post-patch match,logistic_regression,0,0.20305527420138336,1.0
+2024-07-07 19:37:40.174851,14.13,Faker,T1,Yasuo,-0.0597114389290541,,High-performance post-patch match,logistic_regression,0,0.07811668027346902,0.0
+2024-07-10 08:02:01.465267,14.13,Faker,T1,Tristana,0.774160277606831,,High-performance post-patch match,logistic_regression,0,0.4944661674735829,1.0
+2024-07-10 08:47:01.434525,14.13,Faker,T1,Tristana,-0.4240550977553547,,High-performance post-patch match,logistic_regression,0,0.4313649004549326,0.0
+2024-07-10 09:40:43.481927,14.13,Faker,T1,Taliyah,-0.0996969690508659,,High-performance post-patch match,logistic_regression,0,0.15515706738096136,0.0
+2024-07-10 11:11:34.307703,14.13,Bdd,KT Rolster,Azir,0.9589680812805385,,High-performance post-patch match,logistic_regression,0,0.41877384906301807,1.0
+2024-07-10 12:04:16.383015,14.13,Bdd,KT Rolster,Orianna,0.2606761620750931,,High-performance post-patch match,logistic_regression,1,0.5025428499937135,1.0
+2024-07-11 08:01:20.081398,14.13,ShowMaker,Dplus KIA,Akali,-0.0502568221940795,,High-performance post-patch match,logistic_regression,0,0.07776660807240385,0.0
+2024-07-11 08:56:23.721697,14.13,ShowMaker,Dplus KIA,Taliyah,0.3050547381881363,,High-performance post-patch match,logistic_regression,0,0.1754991446521053,1.0
+2024-07-11 10:31:13.388861,14.13,Chovy,Gen.G,Corki,0.5394516796485588,,High-performance post-patch match,logistic_regression,1,0.9249458513812693,1.0
+2024-07-11 11:18:26.400791,14.13,Chovy,Gen.G,Corki,0.8572570818327887,,High-performance post-patch match,logistic_regression,1,0.8181717417444333,1.0
+2024-07-12 08:01:07.439831,14.13,Bdd,KT Rolster,Tristana,0.3203747931012624,,High-performance post-patch match,logistic_regression,1,0.5999363977106222,1.0
+2024-07-12 09:00:48.815374,14.13,Bdd,KT Rolster,Azir,-0.1495210688795535,,High-performance post-patch match,logistic_regression,0,0.4614450094412897,0.0
+2024-07-12 10:35:28.871466,14.13,Faker,T1,Tristana,-0.3352822114902006,,High-performance post-patch match,logistic_regression,0,0.35721870313427045,0.0
+2024-07-12 11:40:09.677345,14.13,Faker,T1,Corki,0.3146465534555973,,High-performance post-patch match,logistic_regression,0,0.14519013411694356,1.0
+2024-07-12 12:25:39.391000,14.13,knight,Bilibili Gaming,Yone,-0.9054745567262787,,High-performance post-patch match,logistic_regression,0,0.44041111007277195,0.0
+2024-07-12 12:34:11.308769,14.13,Faker,T1,Tristana,-0.0187835609007815,,High-performance post-patch match,logistic_regression,0,0.31572913567778743,0.0
+2024-07-12 13:28:06.548000,14.13,knight,Bilibili Gaming,Tristana,0.9216195066830982,,High-performance post-patch match,logistic_regression,1,0.6746060495694303,1.0
+2024-07-12 14:15:27.378000,14.13,knight,Bilibili Gaming,Taliyah,0.9728389251562454,,High-performance post-patch match,logistic_regression,1,0.5910248346285707,1.0
+2024-07-13 06:01:26.321026,14.13,Chovy,Gen.G,Tristana,1.0434666762697675,,High-performance post-patch match,logistic_regression,1,0.6968980785876477,1.0
+2024-07-13 06:01:26.321026,14.13,ShowMaker,Dplus KIA,Taliyah,-0.9380634423023396,,High-performance post-patch match,logistic_regression,0,0.26710482209556574,0.0
+2024-07-13 06:54:40.763200,14.13,Chovy,Gen.G,Azir,0.7915281577500667,,High-performance post-patch match,logistic_regression,0,0.49865809903145375,1.0
+2024-07-13 06:54:40.763200,14.13,ShowMaker,Dplus KIA,Taliyah,-1.087232263251649,,High-performance post-patch match,logistic_regression,0,0.2781361790559494,0.0
+2024-07-13 17:43:13.673759,14.13,Caps,G2 Esports,Tristana,0.3268838803751172,,High-performance post-patch match,logistic_regression,1,0.7581145813948664,1.0
+2024-07-13 18:48:40.142663,14.13,Caps,G2 Esports,Ezreal,-0.0601819495658665,,High-performance post-patch match,logistic_regression,0,0.4269258326374781,0.0
+2024-07-14 16:44:57.996000,14.13,Caps,G2 Esports,Lucian,0.9772005781955576,,High-performance post-patch match,logistic_regression,0,0.3397674803961299,1.0
+2024-07-14 17:34:16.338000,14.13,Caps,G2 Esports,Tristana,1.0037352210672703,,High-performance post-patch match,logistic_regression,1,0.8563808551126405,1.0
+2024-07-15 12:29:25.725426,14.13,knight,Bilibili Gaming,Yone,0.9619524594697958,,High-performance post-patch match,logistic_regression,0,0.20971562746092973,1.0
+2024-07-15 13:16:40.033437,14.13,knight,Bilibili Gaming,Annie,-0.515154104699053,,High-performance post-patch match,logistic_regression,1,0.6117203156164636,0.0
+2024-07-17 08:00:57.755721,14.13,ShowMaker,Dplus KIA,LeBlanc,1.004938672570903,,High-performance post-patch match,logistic_regression,0,0.2947936119533133,1.0
+2024-07-17 08:52:54.451943,14.13,ShowMaker,Dplus KIA,Ziggs,1.0171659038653302,,High-performance post-patch match,logistic_regression,0,0.256300799076615,1.0
+2024-07-18 08:00:49.765359,14.13,Faker,T1,Tristana,-1.5670575037871324,,High-performance post-patch match,logistic_regression,0,0.4131173520074105,0.0
+2024-07-18 08:52:47.639984,14.13,Faker,T1,Tristana,1.1000439575186838,,High-performance post-patch match,logistic_regression,0,0.39841694789484844,1.0
+2024-07-18 09:39:24.945281,14.13,Faker,T1,Tristana,-1.191457084865374,,High-performance post-patch match,logistic_regression,0,0.3608565333863881,0.0
+2024-07-18 11:10:25.221161,14.13,knight,Bilibili Gaming,Zeri,-0.3206200899821493,,High-performance post-patch match,logistic_regression,0,0.43713745155777,0.0
+2024-07-18 11:16:49.261478,14.13,Chovy,Gen.G,Tristana,1.329528742714362,,High-performance post-patch match,logistic_regression,1,0.7690696536050001,1.0
+2024-07-18 12:03:43.539063,14.13,knight,Bilibili Gaming,Yone,0.4582208322051517,,High-performance post-patch match,logistic_regression,0,0.13339404275514702,1.0
+2024-07-18 12:07:28.310694,14.13,Chovy,Gen.G,Azir,0.0675109870851424,,High-performance post-patch match,logistic_regression,0,0.37266904157723796,0.0
+2024-07-18 12:54:24.640323,14.13,knight,Bilibili Gaming,Ahri,-0.2893969907025662,,High-performance post-patch match,logistic_regression,0,0.4171267554789792,0.0
+2024-07-19 08:01:27.773238,14.13,Bdd,KT Rolster,Azir,0.577213632828239,,High-performance post-patch match,logistic_regression,0,0.48061665409967486,1.0
+2024-07-19 08:56:53.888348,14.13,Bdd,KT Rolster,Tristana,0.1762195969926529,,High-performance post-patch match,logistic_regression,1,0.7132497821332167,1.0
+2024-07-20 06:02:41.314536,14.13,Faker,T1,Corki,-0.6235108743963723,,High-performance post-patch match,logistic_regression,0,0.4780358481592602,0.0
+2024-07-20 06:52:58.515937,14.13,Faker,T1,Lucian,-0.6455002542836326,,High-performance post-patch match,logistic_regression,0,0.2545774302810877,0.0
+2024-07-20 08:32:20.349803,14.13,Chovy,Gen.G,Yone,-1.2212188829144612,,High-performance post-patch match,logistic_regression,0,0.3472782912249958,0.0
+2024-07-20 08:32:20.349803,14.13,ShowMaker,Dplus KIA,Twisted Fate,0.5321051032400524,,High-performance post-patch match,logistic_regression,0,0.4268062044597361,1.0
+2024-07-20 09:24:39.031790,14.13,Chovy,Gen.G,Azir,0.0073485175550539,,High-performance post-patch match,logistic_regression,1,0.6915512996162833,0.0
+2024-07-20 09:24:39.031790,14.13,ShowMaker,Dplus KIA,LeBlanc,-0.3819443602295849,,High-performance post-patch match,logistic_regression,0,0.10334098157577286,0.0
+2024-07-20 10:21:12.183359,14.13,Chovy,Gen.G,Azir,1.0845669012608117,,High-performance post-patch match,logistic_regression,1,0.6271842004278074,1.0
+2024-07-20 10:21:12.183359,14.13,ShowMaker,Dplus KIA,Ziggs,-0.4785435461740223,,High-performance post-patch match,logistic_regression,1,0.7353336527514753,0.0
+2024-07-20 11:13:12.191000,14.13,knight,Bilibili Gaming,Tristana,-0.0730297040567031,,High-performance post-patch match,logistic_regression,1,0.7343381404853957,0.0
+2024-07-20 12:12:14.716000,14.13,knight,Bilibili Gaming,Tristana,0.2429325618195906,,High-performance post-patch match,logistic_regression,1,0.6070063563366319,1.0
+2024-07-20 12:58:13.356000,14.13,knight,Bilibili Gaming,Tristana,0.6760745150904649,,High-performance post-patch match,logistic_regression,1,0.5058049600374895,1.0
+2024-07-21 06:01:26.900619,14.13,Bdd,KT Rolster,Azir,0.5126930097190665,,High-performance post-patch match,logistic_regression,0,0.4981762099406966,1.0
+2024-07-21 06:50:11.973503,14.13,Bdd,KT Rolster,Azir,-0.2423474048485816,,High-performance post-patch match,logistic_regression,0,0.45980738736710697,0.0
+2024-07-21 07:32:28.068746,14.13,Bdd,KT Rolster,Azir,-0.5675402666353605,,High-performance post-patch match,logistic_regression,1,0.5560028694676442,0.0
+2024-07-22 15:02:22.899649,14.13,Caps,G2 Esports,Ezreal,0.5132399747472975,,High-performance post-patch match,logistic_regression,0,0.3677892473562523,1.0
+2024-07-22 15:48:40.063112,14.13,Caps,G2 Esports,Lucian,0.1328099048960108,,High-performance post-patch match,logistic_regression,0,0.39384900496034514,1.0
+2024-07-22 16:43:07.897688,14.13,Caps,G2 Esports,Ezreal,-0.1583538867696531,,High-performance post-patch match,logistic_regression,0,0.3636852449877959,0.0
+2024-07-22 17:51:05.173571,14.13,Caps,G2 Esports,Corki,-0.3320677205862565,,High-performance post-patch match,logistic_regression,0,0.4364434699403983,0.0
+2024-07-22 18:40:44.699482,14.13,Caps,G2 Esports,Lucian,-0.7327799604653387,,High-performance post-patch match,logistic_regression,1,0.591664050509424,0.0
+2024-07-23 09:11:44.165000,14.13,knight,Bilibili Gaming,Yone,-1.1063655921607372,,High-performance post-patch match,logistic_regression,0,0.33269895404510785,0.0
+2024-07-23 10:02:34.005000,14.13,knight,Bilibili Gaming,Yone,0.326886433021607,,High-performance post-patch match,logistic_regression,0,0.33935968520856064,1.0
+2024-07-23 10:46:31.190000,14.13,knight,Bilibili Gaming,Corki,-0.005651635117561,,High-performance post-patch match,logistic_regression,1,0.674774558267183,0.0
+2024-08-14 08:00:52.854287,14.16,Bdd,KT Rolster,Corki,1.234317168593883,,High-performance post-patch match,logistic_regression,1,0.5609879338197061,1.0
+2024-08-14 08:52:55.282338,14.16,Bdd,KT Rolster,Corki,0.6090221072089375,,High-performance post-patch match,logistic_regression,1,0.7555903294875186,1.0
+2024-08-14 10:36:24.019763,14.16,Faker,T1,Yone,-1.125759153199415,,High-performance post-patch match,logistic_regression,0,0.19621913886328457,0.0
+2024-08-14 11:32:30.583246,14.16,Faker,T1,Azir,0.3745304889854813,,High-performance post-patch match,logistic_regression,1,0.5126447059222818,1.0
+2024-08-14 12:23:32.674747,14.16,Faker,T1,Azir,-0.0524858633038507,,High-performance post-patch match,logistic_regression,0,0.4436554795132558,0.0
+2024-08-15 10:31:56.226116,14.16,ShowMaker,Dplus KIA,LeBlanc,0.216811275460029,,High-performance post-patch match,logistic_regression,0,0.4564212466347126,1.0
+2024-08-15 11:39:00.341412,14.16,ShowMaker,Dplus KIA,Zeri,0.7682013364873721,,High-performance post-patch match,logistic_regression,0,0.2868881759134216,1.0
+2024-08-16 11:59:12.213053,14.16,Chovy,Gen.G,Tristana,0.4869677184416479,,High-performance post-patch match,logistic_regression,1,0.9801392077551337,1.0
+2024-08-16 12:52:55.839382,14.16,Chovy,Gen.G,Tristana,0.8959072194817225,,High-performance post-patch match,logistic_regression,1,0.9447346413608508,1.0
+2024-08-17 06:00:57.393000,14.16,Bdd,KT Rolster,Smolder,0.7157435430253352,,High-performance post-patch match,logistic_regression,1,0.6858325340029853,1.0
+2024-08-17 06:00:57.393000,14.16,ShowMaker,Dplus KIA,Corki,0.8526679604773486,,High-performance post-patch match,logistic_regression,0,0.378757776329781,1.0
+2024-08-17 07:08:32.643000,14.16,Bdd,KT Rolster,Corki,-0.1903525935836231,,High-performance post-patch match,logistic_regression,1,0.5381188203104518,0.0
+2024-08-17 07:08:32.643000,14.16,ShowMaker,Dplus KIA,Yone,-0.7276172918853124,,High-performance post-patch match,logistic_regression,0,0.2675332739453174,0.0
+2024-08-17 09:02:53.125793,14.16,Faker,T1,Azir,-0.0034234720179678,,High-performance post-patch match,logistic_regression,0,0.473397056228451,0.0
+2024-08-17 09:55:00.619696,14.16,Faker,T1,Corki,0.588574884637347,,High-performance post-patch match,logistic_regression,0,0.21482887948208657,1.0
+2024-08-17 10:14:03.957000,14.16,knight,Bilibili Gaming,Corki,1.2107259586027397,,High-performance post-patch match,logistic_regression,1,0.651203815422109,1.0
+2024-08-17 11:14:41.316686,14.16,knight,Bilibili Gaming,Corki,0.0239556154761943,,High-performance post-patch match,logistic_regression,1,0.8280893994002317,0.0
+2024-08-17 12:09:16.005189,14.16,knight,Bilibili Gaming,Corki,0.7341016886107403,,High-performance post-patch match,logistic_regression,1,0.737543829734341,1.0
+2024-08-18 08:52:40.460488,14.16,Chovy,Gen.G,Tristana,0.4621682881317863,,High-performance post-patch match,logistic_regression,1,0.9622032683186211,1.0
+2024-08-18 09:40:44.691302,14.16,Chovy,Gen.G,Tristana,0.3449575634788344,,High-performance post-patch match,logistic_regression,1,0.9851843262752341,1.0
+2024-08-18 15:03:40.247345,14.16,Caps,G2 Esports,Smolder,0.4678961307627651,,High-performance post-patch match,logistic_regression,1,0.7988205841430555,1.0
+2024-08-18 15:48:16.800651,14.16,Caps,G2 Esports,Corki,0.1104048992657086,,High-performance post-patch match,logistic_regression,1,0.8013106827420222,1.0
+2024-08-18 16:38:18.019922,14.16,Caps,G2 Esports,Tristana,0.5567874689082563,,High-performance post-patch match,logistic_regression,1,0.8741068609932408,1.0
+2024-08-21 10:12:35.160117,14.16,knight,Bilibili Gaming,Yasuo,-1.5183398414946447,,High-performance post-patch match,logistic_regression,0,0.22447665247336812,0.0
+2024-08-21 11:01:17.633260,14.16,knight,Bilibili Gaming,Corki,0.335056755655377,,High-performance post-patch match,logistic_regression,1,0.7308853428123756,1.0
+2024-08-21 11:54:07.830892,14.16,knight,Bilibili Gaming,Corki,0.5151244864379404,,High-performance post-patch match,logistic_regression,1,0.8863277781784847,1.0
+2024-08-21 12:39:54.969848,14.16,knight,Bilibili Gaming,Corki,1.4791309132459218,,High-performance post-patch match,logistic_regression,1,0.9130617492798924,1.0
+2024-08-23 08:04:36.881971,14.16,ShowMaker,Dplus KIA,Nasus,0.1399113186009837,,High-performance post-patch match,logistic_regression,0,0.13810602431146887,1.0
+2024-08-23 08:58:33.142918,14.16,ShowMaker,Dplus KIA,Corki,1.0057132927935255,,High-performance post-patch match,logistic_regression,0,0.29553664114376377,1.0
+2024-08-23 09:51:44.755326,14.16,ShowMaker,Dplus KIA,Zeri,-0.4175019352487967,,High-performance post-patch match,logistic_regression,0,0.48921632679662735,0.0
+2024-08-23 11:03:45.246421,14.16,ShowMaker,Dplus KIA,Yasuo,-0.3210159809962087,,High-performance post-patch match,logistic_regression,0,0.1387919872462755,0.0
+2024-08-23 15:03:18.663000,14.16,Caps,G2 Esports,Zeri,-0.3772746197308482,,High-performance post-patch match,logistic_regression,1,0.5149440248688052,0.0
+2024-08-23 15:55:17.300000,14.16,Caps,G2 Esports,Zeri,-0.311143312265618,,High-performance post-patch match,logistic_regression,0,0.41043499064895866,0.0
+2024-08-23 16:57:39.197119,14.16,Caps,G2 Esports,Tristana,1.223980439552078,,High-performance post-patch match,logistic_regression,1,0.6572571647125061,1.0
+2024-08-23 17:45:15.546316,14.16,Caps,G2 Esports,Smolder,0.358947217902114,,High-performance post-patch match,logistic_regression,1,0.691610001912893,1.0
+2024-08-23 18:45:26.806132,14.16,Caps,G2 Esports,Tristana,0.5748500475171643,,High-performance post-patch match,logistic_regression,1,0.8076812449430111,1.0
+2024-08-24 06:01:44.051001,14.16,Bdd,KT Rolster,Smolder,0.3156501809113397,,High-performance post-patch match,logistic_regression,1,0.7974143018891724,1.0
+2024-08-24 06:01:44.051001,14.16,Faker,T1,Azir,-0.4824801772142272,,High-performance post-patch match,logistic_regression,0,0.2222716877046695,0.0
+2024-08-24 06:58:26.753442,14.16,Bdd,KT Rolster,Smolder,0.6064630150687914,,High-performance post-patch match,logistic_regression,1,0.7118089453737878,1.0
+2024-08-24 06:58:26.753442,14.16,Faker,T1,Yasuo,-0.934624792576466,,High-performance post-patch match,logistic_regression,0,0.054164625251839786,0.0
+2024-08-24 07:50:21.024184,14.16,Bdd,KT Rolster,Smolder,-0.111882154551114,,High-performance post-patch match,logistic_regression,1,0.768631096203919,0.0
+2024-08-24 07:50:21.024184,14.16,Faker,T1,Azir,-0.3598732157758642,,High-performance post-patch match,logistic_regression,0,0.3485475754923769,0.0
+2024-08-24 08:46:31.854747,14.16,Bdd,KT Rolster,Corki,-0.1985372651568137,,High-performance post-patch match,logistic_regression,1,0.6620355794416893,0.0
+2024-08-24 08:46:31.854747,14.16,Faker,T1,Smolder,-0.1764278144671094,,High-performance post-patch match,logistic_regression,0,0.4932223294757627,0.0
+2024-08-28 08:04:36.957000,14.16,Chovy,Gen.G,Tristana,0.3441063585890133,,High-performance post-patch match,logistic_regression,1,0.9823397829600826,1.0
+2024-08-28 08:04:36.957000,14.16,ShowMaker,Dplus KIA,Corki,0.0661269708010613,,High-performance post-patch match,logistic_regression,0,0.46325871279334674,0.0
+2024-08-28 09:04:18.688000,14.16,Chovy,Gen.G,Garen,0.3979750429399635,,High-performance post-patch match,logistic_regression,1,0.5983199110482329,1.0
+2024-08-28 09:04:18.688000,14.16,ShowMaker,Dplus KIA,Nasus,-1.5019638030121196,,High-performance post-patch match,logistic_regression,0,0.29507260855207995,0.0
+2024-08-28 09:56:05.202000,14.16,Chovy,Gen.G,Corki,0.2159836468013423,,High-performance post-patch match,logistic_regression,1,0.9340188840804805,1.0
+2024-08-28 09:56:05.202000,14.16,ShowMaker,Dplus KIA,Taliyah,-0.4886451524466605,,High-performance post-patch match,logistic_regression,0,0.3721118308066312,0.0
+2024-08-29 08:02:42.229019,14.16,Faker,T1,LeBlanc,-0.6033398636788179,,High-performance post-patch match,logistic_regression,0,0.012032957438620805,0.0
+2024-08-29 08:56:38.800437,14.16,Faker,T1,Nasus,-0.9036291545337856,,High-performance post-patch match,logistic_regression,0,0.4441346151531143,0.0
+2024-08-29 09:57:17.962357,14.16,Faker,T1,Smolder,-0.5498125507179799,,High-performance post-patch match,logistic_regression,0,0.45198316951313666,0.0
+2024-08-30 08:23:35.103213,14.16,knight,Bilibili Gaming,Smolder,0.2016751555008155,,High-performance post-patch match,logistic_regression,1,0.7561085736457911,1.0
+2024-08-30 09:14:10.920967,14.16,knight,Bilibili Gaming,Zeri,1.405456338774951,,High-performance post-patch match,logistic_regression,0,0.46688391504695004,1.0
+2024-08-30 10:11:09.411937,14.16,knight,Bilibili Gaming,Smolder,0.4785980546252419,,High-performance post-patch match,logistic_regression,0,0.47507958837115166,1.0
+2024-08-31 06:01:53.734719,14.16,Chovy,Gen.G,Zeri,-0.2834326254429995,,High-performance post-patch match,logistic_regression,1,0.9433343936760228,0.0
+2024-08-31 06:58:11.039363,14.16,Chovy,Gen.G,Smolder,0.8259879339755681,,High-performance post-patch match,logistic_regression,1,0.8492146544787758,1.0
+2024-08-31 07:48:53.158418,14.16,Chovy,Gen.G,Corki,0.7703789010629815,,High-performance post-patch match,logistic_regression,1,0.9151338766522782,1.0
+2024-08-31 08:43:38.315335,14.16,Chovy,Gen.G,Corki,1.6378768189025008,,High-performance post-patch match,logistic_regression,1,0.9188187071094976,1.0
+2024-08-31 16:07:39.545123,14.16,Caps,G2 Esports,Yasuo,-0.846317106874197,,High-performance post-patch match,logistic_regression,1,0.5810798799786813,0.0
+2024-08-31 16:55:38.291684,14.16,Caps,G2 Esports,Corki,0.4464846757662762,,High-performance post-patch match,logistic_regression,1,0.530759422849503,1.0
+2024-08-31 17:45:47.599120,14.16,Caps,G2 Esports,Corki,0.2414526035261951,,High-performance post-patch match,logistic_regression,1,0.7003260632788934,1.0
+2024-08-31 18:35:25.989963,14.16,Caps,G2 Esports,Corki,0.7138725590021924,,High-performance post-patch match,logistic_regression,1,0.7651951100561016,1.0
+2024-09-01 06:08:44.488120,14.16,Faker,T1,Corki,-0.450415719179481,,High-performance post-patch match,logistic_regression,0,0.26923135816277266,0.0
+2024-09-01 06:08:44.488120,14.16,ShowMaker,Dplus KIA,Taliyah,0.0796584574400239,,High-performance post-patch match,logistic_regression,0,0.32522466954799945,0.0
+2024-09-01 07:03:29.267991,14.16,Faker,T1,Corki,-0.0176000558631976,,High-performance post-patch match,logistic_regression,0,0.3241750645546889,0.0
+2024-09-01 07:03:29.267991,14.16,ShowMaker,Dplus KIA,Nasus,-0.999457101231307,,High-performance post-patch match,logistic_regression,0,0.14073923853055118,0.0
+2024-09-01 07:57:01.544580,14.16,Faker,T1,Corki,1.4213438283329325,,High-performance post-patch match,logistic_regression,0,0.25636779303883256,1.0
+2024-09-01 07:57:01.544580,14.16,ShowMaker,Dplus KIA,LeBlanc,-0.5069937072842967,,High-performance post-patch match,logistic_regression,0,0.39985858947338876,0.0
+2024-09-01 08:46:24.577559,14.16,Faker,T1,Azir,-0.4698240233309936,,High-performance post-patch match,logistic_regression,0,0.22843245571498622,0.0
+2024-09-01 08:46:24.577559,14.16,ShowMaker,Dplus KIA,Yone,-0.919505379890068,,High-performance post-patch match,logistic_regression,0,0.17751957044962496,0.0
+2024-09-01 16:08:28.332471,14.16,Caps,G2 Esports,Corki,0.1376592089836864,,High-performance post-patch match,logistic_regression,1,0.5814199804743644,1.0
+2024-09-01 17:20:10.201305,14.16,Caps,G2 Esports,Corki,0.1008034176267162,,High-performance post-patch match,logistic_regression,1,0.8411275603441031,0.0
+2024-09-01 18:18:29.463682,14.16,Caps,G2 Esports,Azir,0.488890521546164,,High-performance post-patch match,logistic_regression,1,0.7542250312857769,1.0
+2024-09-01 19:12:20.759074,14.16,Caps,G2 Esports,Azir,-0.2594092328169474,,High-performance post-patch match,logistic_regression,1,0.6435873433425153,0.0
+2024-09-07 06:16:24.142000,14.16,Faker,T1,Caitlyn,-0.6955418918655557,,High-performance post-patch match,logistic_regression,0,0.20318194497718606,0.0
+2024-09-07 07:09:38.879000,14.16,Faker,T1,Tristana,0.6055440014872956,,High-performance post-patch match,logistic_regression,0,0.13301240669391085,1.0
+2024-09-07 08:15:18.788661,14.16,Faker,T1,Corki,-1.395650353579736,,High-performance post-patch match,logistic_regression,0,0.13525709054551974,0.0
+2024-09-07 09:02:18.213178,14.16,Faker,T1,Tristana,-0.5138713697183451,,High-performance post-patch match,logistic_regression,0,0.2644503915092821,0.0
+2024-09-08 06:24:00.567000,14.16,Chovy,Gen.G,Smolder,0.7942553385388939,,High-performance post-patch match,logistic_regression,1,0.9301502885605828,1.0
+2024-09-08 07:34:45.401000,14.16,Chovy,Gen.G,Corki,1.0616942952452766,,High-performance post-patch match,logistic_regression,1,0.765157662151556,1.0
+2024-09-08 08:36:20.079000,14.16,Chovy,Gen.G,Corki,0.1989828960063487,,High-performance post-patch match,logistic_regression,1,0.7877638883468318,1.0
+2024-09-08 09:31:54.061000,14.16,Chovy,Gen.G,Corki,0.1200820947505794,,High-performance post-patch match,logistic_regression,1,0.8355002801503391,1.0
+2024-09-08 10:35:46.308000,14.16,Chovy,Gen.G,Corki,-0.9396385641278494,,High-performance post-patch match,logistic_regression,1,0.8900916557959858,0.0

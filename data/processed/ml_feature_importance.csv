@@ -1,0 +1,155 @@
+feature,importance_mean,importance_std,target,target_label,best_model
+num__player_last5_mean_dmg_per_min,0.06569990079216281,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_cs_per_min,0.058348642175053776,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_cs_per_min,0.053916314052683816,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_performance_index,0.05286858839700171,0.0,stable_match,Post-patch stability,random_forest
+num__player_champ_prev_mean_perf,0.04816005605831497,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_gold_per_min,0.047928542567185844,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_kp,0.04597997906225207,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_kda,0.04541592713299999,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_gold_per_min,0.04417849960891044,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_kp,0.04319618556550561,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_win,0.041238067522974764,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_kda,0.04040180789011659,0.0,stable_match,Post-patch stability,random_forest
+num__pre_perf_std_window,0.03824757818037509,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_dmg_per_min,0.0380568587745773,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_mean_performance_index,0.03693353027221478,0.0,stable_match,Post-patch stability,random_forest
+num__player_champ_prev_games,0.033640838412986276,0.0,stable_match,Post-patch stability,random_forest
+num__days_since_patch,0.03167474268889191,0.0,stable_match,Post-patch stability,random_forest
+num__player_prev_unique_champs,0.020897545492968843,0.0,stable_match,Post-patch stability,random_forest
+num__pre_winrate_window,0.01929577339549251,0.0,stable_match,Post-patch stability,random_forest
+num__pre_diversity_entropy_window,0.01654659735822334,0.0,stable_match,Post-patch stability,random_forest
+num__pre_champ_games_window,0.015996968717628315,0.0,stable_match,Post-patch stability,random_forest
+num__player_last5_mean_win,0.013509049122348658,0.0,stable_match,Post-patch stability,random_forest
+cat__patch_14.16,0.01290900316727996,0.0,stable_match,Post-patch stability,random_forest
+num__pre_diversity_unique_window,0.012882616449317855,0.0,stable_match,Post-patch stability,random_forest
+num__pre_perf_mean_window,0.011877647909108393,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Corki,0.008055210320872192,0.0,stable_match,Post-patch stability,random_forest
+cat__primary_tag_Marksman,0.0071456578952732806,0.0,stable_match,Post-patch stability,random_forest
+cat__primary_tag_Mage,0.005589303758485373,0.0,stable_match,Post-patch stability,random_forest
+num__champ_used_pre_window,0.005229371204436958,0.0,stable_match,Post-patch stability,random_forest
+cat__primary_tag_Assassin,0.004990383770929246,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Smolder,0.004501737310355343,0.0,stable_match,Post-patch stability,random_forest
+num__new_champion_for_player_patch,0.004356835627196279,0.0,stable_match,Post-patch stability,random_forest
+cat__league_name_LCK,0.004152623442650569,0.0,stable_match,Post-patch stability,random_forest
+cat__patch_14.13,0.004110438138788682,0.0,stable_match,Post-patch stability,random_forest
+cat__league_name_Esports World Cup,0.0037485110997232877,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Azir,0.00341474399770691,0.0,stable_match,Post-patch stability,random_forest
+cat__league_name_LPL,0.0033970281745755856,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_Gen.G,0.0033847180275374243,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Ahri,0.00312221387174816,0.0,stable_match,Post-patch stability,random_forest
+cat__patch_14.5,0.0030629734427127173,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_knight,0.0030044674175624736,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Yone,0.002941051313759348,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Neeko,0.0028774172379859085,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Taliyah,0.0026848502963927393,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Tristana,0.0026136972195566397,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_Dplus KIA,0.0024926402409573374,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_Caps,0.002175506130504144,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_Bilibili Gaming,0.0021055719865522736,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_Bdd,0.0019849756801938513,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_KT Rolster,0.001892828369344021,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_T1,0.0016246882336712852,0.0,stable_match,Post-patch stability,random_forest
+cat__league_name_LEC,0.0015749842211554366,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Zeri,0.0015289212726358782,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_LeBlanc,0.0014576767256393834,0.0,stable_match,Post-patch stability,random_forest
+cat__team_name_G2 Esports,0.0014558850216903954,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_Chovy,0.0013771559304671728,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_ShowMaker,0.0013710589032234974,0.0,stable_match,Post-patch stability,random_forest
+cat__primary_tag_Fighter,0.0012206517068391266,0.0,stable_match,Post-patch stability,random_forest
+cat__player_name_Faker,0.0010576679634809673,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Orianna,0.0009915396842828962,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Karma,0.0009660953099404256,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Nasus,0.0006687802821223546,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Yasuo,0.0005224728062065139,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Annie,0.000376873201856734,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Lucian,0.0003648863051061309,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Twisted Fate,0.0002009185662903298,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Syndra,0.00014697755980904616,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Ezreal,0.00013701231056785618,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Hwei,6.610532430552253e-05,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Ziggs,3.4551299339062836e-05,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Veigar,1.9080628993653766e-05,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Sylas,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Kassadin,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Akali,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Aurelion Sol,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Caitlyn,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Garen,0.0,0.0,stable_match,Post-patch stability,random_forest
+cat__champion_name_Neeko,1.2906288766979814,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_winrate_window,0.9607111338752503,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Syndra,0.9290989061187306,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_T1,0.8733143215287064,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_Faker,0.8733143215287064,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Zeri,0.8561854200961432,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_perf_mean_window,0.8328865950409469,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Aurelion Sol,0.798974950068083,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Twisted Fate,0.7743043426985566,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__league_name_LPL,0.7593302849396141,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_gold_per_min,0.7397223185368493,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Yasuo,0.7272074505636751,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Tristana,0.7220184283605331,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__league_name_Esports World Cup,0.6137783035721827,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Smolder,0.6047143487445037,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Karma,0.5905765734514216,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_unique_champs,0.5676266042332493,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_diversity_entropy_window,0.5628363433892424,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_Chovy,0.43568488443743386,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_Gen.G,0.43568488443743386,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_kp,0.4334843765631611,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Yone,0.4113542949146276,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Orianna,0.3835269040913718,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Annie,0.3767874116716965,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__league_name_LCK,0.33985116291309037,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_champ_prev_mean_perf,0.33759208144022357,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__primary_tag_Marksman,0.33417462608656257,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__primary_tag_Fighter,0.3264734675717989,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_Bilibili Gaming,0.31438985517452034,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_knight,0.31438985517452034,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Veigar,0.31307220972747174,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Ahri,0.3127323829748652,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_ShowMaker,0.3007749300442577,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_Dplus KIA,0.3007749300442577,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_win,0.2725731801862626,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_cs_per_min,0.24887462799296567,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Taliyah,0.24555293447644197,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__patch_14.13,0.24451309898471793,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Garen,0.23600069196437312,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__primary_tag_Assassin,0.23476686178792008,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__primary_tag_Mage,0.23373436150670243,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_cs_per_min,0.21893189008031616,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Hwei,0.2165123059572096,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Kassadin,0.20561932049048945,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__league_name_LEC,0.20096783977920568,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__patch_14.16,0.1980232442353185,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__days_since_patch,0.1961148273676429,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_gold_per_min,0.1923234483646643,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_diversity_unique_window,0.1689746747549142,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Ziggs,0.16501992255018055,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Nasus,0.16473329102750386,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_win,0.1536238673428484,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Ezreal,0.13826448801464875,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_Bdd,0.13138051440262283,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_KT Rolster,0.13138051440262283,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Corki,0.12948373236461375,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_dmg_per_min,0.1287840613074556,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_perf_std_window,0.12450518009610659,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_kda,0.10844364840758111,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Caitlyn,0.10437315162630348,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Azir,0.10220799299107132,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__new_champion_for_player_patch,0.09105388264147583,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__champ_used_pre_window,0.09105388264147583,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_champ_prev_games,0.07164339513754713,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Akali,0.06948703955015399,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_performance_index,0.05448890889250903,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_performance_index,0.04911830770923204,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_LeBlanc,0.04045515218637213,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__patch_14.5,0.039821196515852815,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__team_name_G2 Esports,0.03948617549133558,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__player_name_Caps,0.03948617549133558,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Lucian,0.0232188236459919,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_last5_mean_kp,0.017872916433995464,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_kda,0.014688326271959195,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__pre_champ_games_window,0.009942305062750142,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+num__player_prev_mean_dmg_per_min,0.007732801698095804,0.0,high_performance_match,High-performance post-patch match,logistic_regression
+cat__champion_name_Sylas,0.004735604472996463,0.0,high_performance_match,High-performance post-patch match,logistic_regression
