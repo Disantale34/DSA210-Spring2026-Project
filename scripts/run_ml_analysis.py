@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Machine learning milestone for the DSA210 Faker project.
+Machine learning milestone twlo
 
-This script applies several supervised learning methods to the post-patch
+This python script applies several supervised learning methods to the post-patch
 match dataset produced in milestone 1. The main goal is to predict whether a
 player remains stable after a patch and whether a post-patch match is high
 performing relative to the overall sample.
