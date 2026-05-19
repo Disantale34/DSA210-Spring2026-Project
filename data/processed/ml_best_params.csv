@@ -1,0 +1,5 @@
+target,target_label,model,model_label,best_params_json
+stable_match,Post-patch stability,logistic_regression,Logistic Regression,"{""model__C"": 0.1, ""model__penalty"": ""l1""}"
+stable_match,Post-patch stability,random_forest,Random Forest,"{""model__max_depth"": 5, ""model__min_samples_leaf"": 4, ""model__n_estimators"": 100}"
+high_performance_match,High-performance post-patch match,logistic_regression,Logistic Regression,"{""model__C"": 1, ""model__penalty"": ""l1""}"
+high_performance_match,High-performance post-patch match,random_forest,Random Forest,"{""model__max_depth"": null, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 100}"
